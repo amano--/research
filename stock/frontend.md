@@ -63,6 +63,12 @@ https://codepen.io/tonkotsuboy/pen/qBbpYzj
   place-items: center;
 }
 
+### Lint 系
+
+[ check-dependencies ]( https://github.com/mgol/check-dependencies )
+  - Checks if currently installed npm/bower dependencies are installed in the exact same versions that are specified in package.json/bower.json
+
+
 #### WYSWYG ツール
 
 [ Visly - Rapidly design and build production-ready components with Visly, the design tool built for developers.]( https://www.visly.app/ )
@@ -75,6 +81,10 @@ https://codepen.io/tonkotsuboy/pen/qBbpYzj
 
 [ ponicode AIが単体テストを生成 ]( ponicode.com )
 
+### UI Testing
+
+[ react-snap ]( https://github.com/stereobooster/react-snap )
+  - Pre-renders a web app into static HTML. Uses Headless Chrome to crawl all available links starting from the root. Heavily inspired by prep and react-snapshot, but written from scratch. Uses best practices to get the best loading performance.
 
 ### AP Framework
 

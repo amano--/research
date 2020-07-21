@@ -17,9 +17,15 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
+
+[ xtermjs ]( https://github.com/xtermjs/xterm.js )
+- Xterm.js is a front-end component written in TypeScript that lets applications bring fully-featured terminals to their users in the browser. It's used by popular projects such as VS Code, Hyper and Theia.
+
+[ react-snap ]( https://github.com/stereobooster/react-snap )
+  - Pre-renders a web app into static HTML. Uses Headless Chrome to crawl all available links starting from the root. Heavily inspired by prep and react-snapshot, but written from scratch. Uses best practices to get the best loading performance.
+  
+[ check-dependencies ]( https://github.com/mgol/check-dependencies )
+  - Checks if currently installed npm/bower dependencies are installed in the exact same versions that are specified in package.json/bower.json
 
 [ perfume.js ]( https://github.com/zizzamia/perfume.js )
   - Perfume is a tiny, web performance monitoring library that reports field data back to your favorite analytics tool.

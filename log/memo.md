@@ -1,3 +1,17 @@
+それが、型引数を解決しないと引数の数が定まらないパターンがあります
+
+https://www.typescriptlang.org/play/#code/GYVwdgxgLglg9mABKSAeA0gPgBQGsBci6ANIgHQUCGATgOYDOh6iApgB5QtgAm9i9UajDC1EAfkQBtALqJCk9NICUiAN4BfAFAB6bYji5NKCNgBEwOHFNKA3EfAmAjACYAzABZSAVgBsAdgAOW00dPRZqajhqe0gzCytSF1dg42wk92CgA
+
+function func<K>(k: K, ...args: K extends string ? [] : [K]) {}
+// ok
+func("foo");
+func(1234, 5678);
+
+// error
+func("foo", 123);
+func(1234);
+
+
 // 株式会社アイビスの郵便番号検索APIを使用しています：
 // http://zipcloud.ibsnet.co.jp/doc/api
 

@@ -30,7 +30,10 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
+
+### 基礎
+
+[ LINE社内で大評判のテクニカルライティング講座で説明した内容をあらためてブログにまとめてみた ]( https://engineering.linecorp.com/ja/blog/line-technical-writing-course/ )
 
 [ 命名のプロセス ]( https://scrapbox.io/kawasima/%E5%91%BD%E5%90%8D%E3%81%AE%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9 )
 
@@ -53,6 +56,10 @@
 
 Uncle Bobと息子のMicah MartinがペアプロしながらWebシステムを作る講義
 [ CleanCodeCaseStudy ]( https://github.com/cleancoders/CleanCodeCaseStudy )
+
+### 
+
+[ クラウド設計パターン ]( https://docs.microsoft.com/ja-jp/azure/architecture/patterns/ )
 
 ### デザインパターン 等
 

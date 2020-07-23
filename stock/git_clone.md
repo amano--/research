@@ -38,7 +38,6 @@ git clone
 git clone 
 git clone 
 git clone 
-git clone 
 
 #### 
 #### 
@@ -79,6 +78,11 @@ git clone https://github.com/kentcdodds/react-testing-library-course.git
 git clone https://github.com/kentcdodds/react-suspense.git
 
 git clone https://github.com/dai-shi/react-suspense-fetch.git
+
+### fetch 
+
+git clone https://github.com/vercel/swr.git
+
 
 #### 参考になる実アプリ TS,React,Next 
 

@@ -29,7 +29,7 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
+
 
 ### 基礎
 
@@ -47,6 +47,13 @@
 
 [ 要件定義・仕様化・実装の継ぎ目をなくすCCSR開発手法 ]( https://masuda220.hatenablog.com/entry/2020/05/27/103750 )
 
+- 記事
+
+[ Introducing Domain-Oriented Microservice Architecture ]( https://eng.uber.com/microservice-architecture/ )
+  - Uber の DDD設計について
+  
+[ DDD質問箱の回答 ]( https://github.com/little-hands/ddd-q-and-a )
+
 ### CleanArchitecture
 
 [ Clean Architecture と React を組み合わせる ]( https://hfuji.hatenablog.jp/entry/2019/01/14/195636 )
@@ -56,6 +63,8 @@
 
 Uncle Bobと息子のMicah MartinがペアプロしながらWebシステムを作る講義
 [ CleanCodeCaseStudy ]( https://github.com/cleancoders/CleanCodeCaseStudy )
+
+- 記事
 
 ### 
 

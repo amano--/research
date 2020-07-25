@@ -8,9 +8,15 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
+
+[ useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計 ]( https://qiita.com/uhyo/items/cea1bd157453a85feebf)
+
+[ 京都大学工学部専門科目「プログラミング言語処理系」講義資料 ]( https://kuis-isle3sw.github.io/IoPLMaterials/ )
+
+[ DDD質問箱の回答 ]( https://github.com/little-hands/ddd-q-and-a )
+
+[ プログラミング言語の関係と登場時期の図 ]( https://twitter.com/EndouNicolas/status/1286844871123152896/photo/1 )
+
 [ "Neumorphism" なるUIデザインのトレンド ]( https://note.com/hironobukimura/n/n0431c73714e8 )
 
 [ solid ]( https://github.com/ryansolid/solid )

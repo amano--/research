@@ -14,7 +14,6 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
 
 ### Typescript 初級
 
@@ -45,13 +44,14 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
   
 #### Hooks
 
 - [ useEffectフックのしくみ ]( https://qiita.com/ossan-engineer/items/740425a0df937a47e093 )
 
 - [ Hooksをトップレベル以外で呼んではいけない理由をReactのソースコードから読み解く ]( https://qiita.com/akashixi/items/7cf0ef9940c2dc8ea24 )
+
+[ useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計 ]( https://qiita.com/uhyo/items/cea1bd157453a85feebf)
 
 ### React 上級
 
@@ -78,6 +78,9 @@
 
 [ ECMAScriptとは何か？ ]( https://azu.github.io/slide-what-is-ecmascript/ )
 
+- 記事
+
+[ 2018年に見直した現代的なJavaScriptの記法を紹介するぜ ](https://ics.media/entry/17262/)
 
 ### JavaScript 上級
 
@@ -108,3 +111,6 @@
 
   [ RESTアプリケーション設計実装手順 ]( https://qiita.com/koriym/items/cb6efd0ab2fb8751f9e9 )
 
+
+
+[ 京都大学工学部専門科目「プログラミング言語処理系」講義資料 ]( https://kuis-isle3sw.github.io/IoPLMaterials/ )

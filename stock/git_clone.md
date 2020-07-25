@@ -52,6 +52,8 @@ git clone
 
 git clone https://github.com/adobe/react-spectrum.git
 
+git clone https://github.com/zeit-ui/react.git
+
 #### CRUD Scaffolding 
 
 git clone https://github.com/marmelab/react-admin.git

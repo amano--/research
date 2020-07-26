@@ -51,7 +51,7 @@
 
 [ Introducing Domain-Oriented Microservice Architecture ]( https://eng.uber.com/microservice-architecture/ )
   - Uber の DDD設計について
-  
+
 [ DDD質問箱の回答 ]( https://github.com/little-hands/ddd-q-and-a )
 
 ### CleanArchitecture
@@ -89,6 +89,8 @@ Uncle Bobと息子のMicah MartinがペアプロしながらWebシステムを�
 [ 松岡さんによるDDDサンプル ]( https://github.com/little-hands/ddd-examples )
 
 ### CleanArchitecture
+
+[ Frontend Clean Architecture Essence Consideration ]( https://github.com/uruha/frontend-clean-architecture-essence-consideration )
 
 [ CleanArchitecture C#用 ]( https://github.com/ardalis/cleanarchitecture )
 

@@ -39,6 +39,11 @@
 - Form関係
 [ react-hook-form ]( https://github.com/react-hook-form/react-hook-form/blob/master/docs/README.ja-JP.md )
 
+### Next.js
+
+[ Next.js 9.5 リリース詳細を完全翻訳！　段階的な静的再生成（安定版）, リダイレクトやルーティング機能の強化, Webpack 5 のサポートほか ]( https://qiita.com/thesugar/items/73a169c4d23e4bd91554 )
+
+
 ### コンポーネントライブラリ
 
 - a11y アニメーション等

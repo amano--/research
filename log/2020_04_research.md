@@ -3,11 +3,17 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
+
+[ Svelteコンパイラのコードを読む Part.1 ]( https://lealog.hateblo.jp/entry/2020/07/15/211032 )
+
+[ サイボウズフロントエンドマンスリー 2020/7 ]( https://hackmd.io/@Yfva4IELRMGORJNF-EKW6g/ByyStPa1w )
+
+[ Awesome React ]( https://github.com/enaqx/awesome-react )
+  - Awesome A collection of awesome things regarding the React ecosystem. 
+
+[ Building better in the world of build tools! - 日本語字幕つき ]( https://www.youtube.com/watch?v=vsMJiNtQWvw&feature=youtu.be )
+
+[ Next.js 9.5 リリース詳細を完全翻訳！　段階的な静的再生成（安定版）, リダイレクトやルーティング機能の強化, Webpack 5 のサポートほか ]( https://qiita.com/thesugar/items/73a169c4d23e4bd91554 )
 
 [ useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計 ]( https://qiita.com/uhyo/items/cea1bd157453a85feebf)
 

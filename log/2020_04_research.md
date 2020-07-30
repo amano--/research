@@ -1,8 +1,12 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
-[  ](  )
+
+[ デコレータを使わずコールバック関数に依存性を注入できるDIヘルパーをたった15行のTypeScriptで作った話 ]( https://qiita.com/m_mitsuhide/items/d87102e1d8eea5b6e306 )
+
+[ Luckysheet ]( https://github.com/mengshukeji/Luckysheet )
+  - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+
 
 [ Svelteコンパイラのコードを読む Part.1 ]( https://lealog.hateblo.jp/entry/2020/07/15/211032 )
 

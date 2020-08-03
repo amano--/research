@@ -27,9 +27,17 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
-[  ](  )
 
+### Event Storming CQRS
+
+[ CQRS Documents by Greg Young - 日本語訳 ]( http://www.minato.tv/cqrs/cqrs_documents_jp.pdf )
+
+[ EventStorming; Core concepts, glossary and legend ]( https://baasie.com/2020/07/16/eventstorming-core-concepts-glossary-and-legend/ )
+
+[ Crunching 'real-life stories' with DDD & Event Storming ]( https://www.youtube.com/watch?v=WvkBKvMnyuc )
+
+[ Software design as a cooperative game with EventStorming ]( https://www.slideshare.net/mobile/ziobrando/software-design-as-a-cooperative-game-with-eventstorming
+ )
 
 ### 基礎
 
@@ -42,8 +50,6 @@
 [ 7つの設計原則とオブジェクト指向プログラミング ]( https://masuda220.hatenablog.com/entry/2020/06/26/182317 )
 
 [ 僕とDDDとClean ArchitectureとやっぱりDDD ]( https://kenfdev.hateblo.jp/entry/2019/07/31/234520 )
-
-[ CQRS Documents by Greg Young - 日本語訳 ]( http://www.minato.tv/cqrs/cqrs_documents_jp.pdf )
 
 [ 要件定義・仕様化・実装の継ぎ目をなくすCCSR開発手法 ]( https://masuda220.hatenablog.com/entry/2020/05/27/103750 )
 

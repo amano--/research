@@ -20,12 +20,12 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
-[  ](  )
 
 ### Typescript
 
 [ TypeScript の型定義ファイルの探索アルゴリズム ]( https://numb86-tech.hatenablog.com/entry/2020/07/15/153431 )
+
+[ TypeScript の型システム / Type system of the TypeScript ]( https://speakerdeck.com/saiya_moebius/type-system-of-the-typescript )
 
 ### React 
 
@@ -54,16 +54,37 @@
 
 - [ zeit-ui/react ]( https://github.com/zeit-ui/react )
 
+[ Victory ]( https://github.com/FormidableLabs/victory )
+  - an ecosystem of composable React components for building interactive data visualizations.
+
 ### CSS
 [ CSS Grid Layout Generator でレイアウト用CSSを生成する ]( https://qiita.com/mizchi/items/c63ca1c6ed038f0bf8e4 )
 
 [ 現代開発者のためのCSS基礎技術 ]( https://qiita.com/arowM/items/e1af320e2755461649a0#comments )
 
+[ レスポンシブ ウェブデザイン パターン ]( https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns?hl=ja )
+
+[ Tailwind Blog Template ]( https://github.com/davidgrzyb/tailwind-blog-template )
+
+#### tailwindcss
+
+[ tailwindcss ]( https://tailwindcss.com/resources/ )
+
+[ Tailwind Blog Template ]( https://github.com/davidgrzyb/tailwind-blog-template )
+
+[ Tailwind CSS入門 - フロントエンドで素晴らしい開発体験を得るために ]( https://panda-program.com/posts/recommend-developers-use-tailwind-css )
+
+[ 翻訳：CSSユーティリティクラスと「関心の分離」（いかにしてユーティリティファーストにたどり着いたか） ](https://yuheiy.hatenablog.com/entry/2020/05/25/021342)
+
+#### GraphQL
+
+[ Hasura GraphQL Engine ](https://github.com/hasura/graphql-engine/)
+
+[ Building a Instagram clone in React with GraphQL and Hasura - Part I ]( https://hasura.io/blog/instagram-clone-react-graphql-hasura-part1/ )
+
 #### ツール
 
 [ restylecss ]( http://www.restylecss.com/ )
-
-[ tailwindcss ]( https://tailwindcss.com/resources/ )
 
 
 https://codepen.io/tonkotsuboy/pen/qBbpYzj
@@ -104,6 +125,8 @@ https://codepen.io/tonkotsuboy/pen/qBbpYzj
 ### Storybook
 
 [ Next.js + TypeScriptにStorybookを導入して遭遇したエラーを全て共有します ]( https://panda-program.com/posts/nextjs-storybook-typescript-errors )
+
+[ Zero-config Storybook ]( https://medium.com/storybookjs/zero-config-storybook-66e7c4798e5d )
 
 ### AP Framework
 - [ Next.jsのドキュメントを翻訳する非公式プロジェクト ]( https://github.com/Nextjs-ja-translation/Nextjs-ja-translation-docs )

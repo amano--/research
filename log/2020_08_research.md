@@ -23,10 +23,15 @@
 
 [ How to handle forms on your Jamstack website? ]( https://bejamas.io/blog/how-to-handle-forms-on-jamstack/ )
 
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
+[ Build and Deploy full-stack React app with Spring Boot and MySQL ]( https://medium.com/@mukundmadhav/build-and-deploy-react-app-with-spring-boot-and-mysql-6f888eb0c600 )
+
+[ Web Speed Hackathon Online 出題のねらいと解説
+ ]( https://github.com/CyberAgentHack/web-speed-hackathon-online/wiki/Web-Speed-Hackathon-Online-%E5%87%BA%E9%A1%8C%E3%81%AE%E3%81%AD%E3%82%89%E3%81%84%E3%81%A8%E8%A7%A3%E8%AA%AC )
+
+[ Top 10 Essential VS Code Extensions ]( https://dev.to/santiagocodes/top-10-essential-vs-code-extensions-e37 )
+
+[ A Look at What’s New in Chrome DevTools in 2020 ]( https://css-tricks.com/whats-new-in-devtools-2020/ )
+
 [  ](  )
 [  ](  )
 [  ](  )

@@ -26,9 +26,10 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
 
 ### Event Storming CQRS
+
+[ EventStorming SoftwareDesign as a Cooperative Game ]( https://speakerdeck.com/98lerr/eventstorming-softwaredesign-as-a-cooperative-game )
 
 [ CQRS Documents by Greg Young - 日本語訳 ]( http://www.minato.tv/cqrs/cqrs_documents_jp.pdf )
 

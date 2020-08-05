@@ -5,3 +5,7 @@
 ### Chrome DevTools
 
 [ A Look at What’s New in Chrome DevTools in 2020 ]( https://css-tricks.com/whats-new-in-devtools-2020/ )
+
+### etc
+
+[ 50 Developer tools to make your life a little easier ]( https://dev.to/iainfreestone/50-developer-tools-to-make-your-life-a-little-easier-4oc5 )

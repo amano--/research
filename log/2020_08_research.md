@@ -32,8 +32,10 @@
 
 [ A Look at What’s New in Chrome DevTools in 2020 ]( https://css-tricks.com/whats-new-in-devtools-2020/ )
 
-[  ](  )
-[  ](  )
+[ 50 Developer tools to make your life a little easier ]( https://dev.to/iainfreestone/50-developer-tools-to-make-your-life-a-little-easier-4oc5 )
+
+[ 【翻訳】Date and Times in JavaScript ]( https://yosuke-furukawa.hatenablog.com/entry/2020/07/28/102821 )
+
 [  ](  )
 [  ](  )
 [  ](  )

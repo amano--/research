@@ -122,6 +122,11 @@ https://codepen.io/tonkotsuboy/pen/qBbpYzj
 
 [ Cypressで始めるReactのE2Eテスト-導入から実際にテストを書いてみよう ]( https://microcms.io/blog/cypress-react-e2e/ )
 
+[ CodeceptJS ]( https://github.com/codeceptjs/CodeceptJS )
+  - CodeceptJS is a new testing framework for end-to-end testing with WebDriver (or others). 
+
+  [ E2Eテストの面倒くさいことはCodeceptJSにお願いしよう Selenium ]( https://qiita.com/Kesin11/items/11da1b4cf9d58e4dd9af )
+
 ### Storybook
 
 [ Next.js + TypeScriptにStorybookを導入して遭遇したエラーを全て共有します ]( https://panda-program.com/posts/nextjs-storybook-typescript-errors )

@@ -41,9 +41,14 @@
 
 [ CodeceptJSの機能を一通り使ってみたサンプル ]( https://github.com/Kesin11/codeceptjs-playground )
 
-[  ](  )
-[  ](  )
-[  ](  )
+[ Deep Dive Into Modern Web Development ]( https://fullstackopen.com/en/ )
+
+[ 大統一 Node ツールチェイン Rome の野望 現状の実装 ]( https://mizchi.dev/202008101816-ambitious-rome )
+
+[ 究極のReact向けルーターライブラリ「Rocon」を作った ]( https://blog.uhy.ooo/entry/2020-08-10/rocon-alpha/ )
+
+[ 今から始める・見直す 管理会計の仕組みと実務がわかる本 ]( https://www.amazon.co.jp/dp/4502257311 )
+
 [  ](  )
 [  ](  )
 [  ](  )

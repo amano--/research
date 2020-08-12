@@ -13,7 +13,6 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
 
 ### Typescript 初級
 
@@ -89,6 +88,8 @@
 [ 今週大幅にリニューアルされた Next.js のチュートリアルをどこよりも早く全編和訳しました ]( https://qiita.com/thesugar/items/01896c1faa8241e6b1bc )
 
 ### フロントエンド一般
+
+[ Deep Dive Into Modern Web Development ]( https://fullstackopen.com/en/ )
 
 [ フロントエンドの情報収集について]( https://qiita.com/toshi-toma/items/cd3cfc40f1dcebfb88c9?utm_content=bufferd43e9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer )
 

@@ -51,9 +51,12 @@
 
 [ Flutter Architecture Blueprints ]( https://github.com/wasabeef/flutter-architecture-blueprints )
 
-[  ](  )
-[  ](  )
-[  ](  )
+[ 50 Projects For React & The Static Web ]( https://50reactprojects.com/ )
+
+[ Setting Up Redux For Use In A Real-World Application ]( https://www.smashingmagazine.com/2020/08/redux-real-world-application/ )
+
+[ git-delete-merged-branches ]( https://github.com/hartwork/git-delete-merged-branches )
+
 [  ](  )
 [  ](  )
 [  ](  )

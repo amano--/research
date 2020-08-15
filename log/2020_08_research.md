@@ -57,10 +57,14 @@
 
 [ git-delete-merged-branches ]( https://github.com/hartwork/git-delete-merged-branches )
 
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
+[ 初心者向け、「上手い」シェルスクリプトの書き方メモ ]( https://qiita.com/m-yamashita/items/889c116b92dc0bf4ea7d )
+
+[ React Trello ]( https://github.com/rcdexta/react-trello )
+
+[ Vest 🦺 Declarative Validation Testing ]( https://github.com/ealush/vest )
+
+[ Timeline: 2006-2020 in 20 projects ]( https://bestofjs.org/timeline )
+
 [  ](  )
 [  ](  )
 [  ](  )

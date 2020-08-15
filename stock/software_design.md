@@ -47,6 +47,15 @@
 
 [ 命名のプロセス ]( https://scrapbox.io/kawasima/%E5%91%BD%E5%90%8D%E3%81%AE%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9 )
 
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+
 ### DDD
 
 [ 7つの設計原則とオブジェクト指向プログラミング ]( https://masuda220.hatenablog.com/entry/2020/06/26/182317 )
@@ -54,6 +63,15 @@
 [ 僕とDDDとClean ArchitectureとやっぱりDDD ]( https://kenfdev.hateblo.jp/entry/2019/07/31/234520 )
 
 [ 要件定義・仕様化・実装の継ぎ目をなくすCCSR開発手法 ]( https://masuda220.hatenablog.com/entry/2020/05/27/103750 )
+
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
 
 - 記事
 
@@ -71,6 +89,15 @@
 
 Uncle Bobと息子のMicah MartinがペアプロしながらWebシステムを作る講義
 [ CleanCodeCaseStudy ]( https://github.com/cleancoders/CleanCodeCaseStudy )
+
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
 
 - 記事
 
@@ -96,6 +123,15 @@ Uncle Bobと息子のMicah MartinがペアプロしながらWebシステムを�
 
 [ 松岡さんによるDDDサンプル ]( https://github.com/little-hands/ddd-examples )
 
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+
 ### CleanArchitecture
 
 [ Frontend Clean Architecture Essence Consideration ]( https://github.com/uruha/frontend-clean-architecture-essence-consideration )
@@ -106,3 +142,13 @@ Uncle Bobと息子のMicah MartinがペアプロしながらWebシステムを�
   [ react-clean-architecture ]( https://github.com/eduardomoroni/react-clean-architecture )
 
 [ Building Vue Enterprise Application - Applying Principles of Clean Architecture to Enterprise Frontend Application ]( https://github.com/soloschenko-grigoriy/vue-vuex-ts )
+
+[ clean-architecture-nodejs-graphql-codegen ]( https://github.com/suzukalight/clean-architecture-nodejs-graphql-codegen )
+
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )
+[  ](  )

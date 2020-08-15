@@ -97,6 +97,16 @@
 
 [ Gitハンズオン研修 / Git Hands-on ]( https://speakerdeck.com/brainpadpr/git-hands-on )
 
+[ 初心者向け、「上手い」シェルスクリプトの書き方メモ ]( https://qiita.com/m-yamashita/items/889c116b92dc0bf4ea7d )
+
+#! /bin/bash
+set -eux
+
+と書くようにしてます。
+eはエラー時の処理停止
+uは未定義変数の利用防止
+xは実行コマンドを標準エラー出力
+
 
 ### 関数型言語
 [  ]( https://www.fp-tower.com/courses/foundations )

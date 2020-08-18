@@ -80,12 +80,16 @@ git clone
 git clone 
 git clone 
 git clone 
-git clone 
 
 #### testing-library
 
 git clone https://github.com/kentcdodds/react-testing-library-course.git
 
+#### Test
+git clone https://github.com/keiya01/react-performance-testing.git
+
+#### OR
+git clone https://github.com/shellyln/open-soql.git
 
 #### Concurrent Mode
 

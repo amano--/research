@@ -1,3 +1,6 @@
+T字型ERやREA(en.m.wikipedia.org/wiki/Resources…)やEvent Stormingのいずれもイベントを分析に使うモデリングのテクニックです。
+
+
 話題になってるOOPartsの技術スタックを外から見える範囲で調べてみたけど、古い業界に対してバリバリモダンな技術で攻めてる、すごい。
 React + emotion + tailwindcss
 * Firebase(Authentication + Firestore)

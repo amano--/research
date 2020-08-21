@@ -29,6 +29,7 @@
  - オープンデータから 個人のポートフォリオを自動生成します
 
 ### Event Storming CQRS
+[ Awesome EventStorming ]( https://github.com/mariuszgil/awesome-eventstorming )
 
 [ EventStorming SoftwareDesign as a Cooperative Game ]( https://speakerdeck.com/98lerr/eventstorming-softwaredesign-as-a-cooperative-game )
 
@@ -40,6 +41,8 @@
 
 [ Software design as a cooperative game with EventStorming ]( https://www.slideshare.net/mobile/ziobrando/software-design-as-a-cooperative-game-with-eventstorming
  )
+
+[ Trying out online EventStorming ]( https://www.youtube.com/watch?v=CbPEibNUe0s )
 
 ### 基礎
 

@@ -29,6 +29,8 @@
 
 ### React 
 
+[ React v17.0 Release Candidate: 新機能「なし」 ]( https://ja.reactjs.org/blog/2020/08/10/react-v17-rc.html )
+
 [ Awesome React ]( https://github.com/enaqx/awesome-react )
   - Awesome A collection of awesome things regarding the React ecosystem. 
 

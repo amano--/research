@@ -15,10 +15,13 @@
 [  ](  )
 
 ### Typescript 初級
+[ TypeScript学習ロードマップ ]( https://qiita.com/irico/items/33744e15a4e0ca52d6bc )
 
 ### Typescript 中級
 
 [ TypeScript Handbook の Advanced Types をちょっとだけ掘り下げる - その5 Discriminated Unions ]( https://qiita.com/kobanyan/items/ca56df27de50ec267995 )
+
+[ なぜ default export を使うべきではないのか？ ]( https://engineering.linecorp.com/ja/blog/you-dont-need-default-export/ )
 
 ### Typescript 上級
 
@@ -37,9 +40,11 @@
 
 - [ Reactのレンダリングに関する完全ガイド ]( https://qiita.com/hellokenta/items/6b795501a0a8921bb6b5 )
 
+[ React Fiberアーキテクチャについて ]( https://postd.cc/react-fiber-architecture/ )
+
 - [ react-typescript-cheatsheet ]( https://react-typescript-cheatsheet.netlify.app/ )
 
-[  ](  )
+
 [  ](  )
 [  ](  )
 [  ](  )

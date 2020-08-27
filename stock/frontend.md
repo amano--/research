@@ -34,6 +34,10 @@
 [ Awesome React ]( https://github.com/enaqx/awesome-react )
   - Awesome A collection of awesome things regarding the React ecosystem. 
 
+[ React + GraphQL から成る Kaizen Ad のフロントエンド ]( https://developer.kaizenplatform.com/entry/2019/03/26/120000 )
+
+[ React components for creating SmartHR applications. ]( https://github.com/kufu/smarthr-ui )
+
 - CRUD
 [ react-admin A frontend Framework for building data-driven applications ]( https://github.com/marmelab/react-admin )
 

@@ -101,12 +101,19 @@
 
 [ clean-code-javascript ]( https://github.com/ryanmcdermott/clean-code-javascript#solid )
 
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
+[ React Fiberアーキテクチャについて ]( https://postd.cc/react-fiber-architecture/ )
+
+[ Elder.js: SEO focused, Svelte Framework & Static Site Generator ]( https://github.com/Elderjs/elderjs )
+
+[ Dotty で軽量な DI ライブラリをかいてみた ]( https://speakerdeck.com/jooohn/dotty-deqing-liang-na-di-raiburariwokaitemita )
+
+[ React components for creating SmartHR applications. ]( https://github.com/kufu/smarthr-ui )
+
+[ TypeScript学習ロードマップ ]( https://qiita.com/irico/items/33744e15a4e0ca52d6bc )
+
+[ なぜ default export を使うべきではないのか？ ]( https://engineering.linecorp.com/ja/blog/you-dont-need-default-export/ )
+
+[ React + GraphQL から成る Kaizen Ad のフロントエンド ]( https://developer.kaizenplatform.com/entry/2019/03/26/120000 )
 
 [  ](  )
 [  ](  )

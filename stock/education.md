@@ -74,6 +74,8 @@
 - 分割代入、スプレッド演算子
   [ 4歳娘「パパ、懐かしいJavaScript書いてるね！」 ]( https://qiita.com/Yametaro/items/70e7878c5ea51788b643 )
 
+[ JavaScriptのテストを通るように関数を実装するJavaScriptの練習問題集 ]( https://www.jschallenger.com/ )
+
 ### JavaScript 中級
 
 [ JavaScript初級者から中級者になろう ]( https://uhyohyo.net/javascript/ )
@@ -123,6 +125,8 @@ xは実行コマンドを標準エラー出力
 
 ### Web一般
 
+[ フルスタックエンジニアになるためのモダンな8つのプロジェクト ]( https://qiita.com/kanye__east/items/77a9746e9b98abbb97e6 )
+
 - REST
   [ 奥さんに REST をどう説明したかというと… ]( https://web.archive.org/web/20190322035905/http://www.geocities.jp/yamamotoyohei/rest/rest-to-my-wife.htm )
 
@@ -131,5 +135,10 @@ xは実行コマンドを標準エラー出力
   [ RESTアプリケーション設計実装手順 ]( https://qiita.com/koriym/items/cb6efd0ab2fb8751f9e9 )
 
 
+### プログラミング 一般
+
+[ 言語処理100本ノック 2020 (Rev 1) ]( https://nlp100.github.io/ja/ )
 
 [ 京都大学工学部専門科目「プログラミング言語処理系」講義資料 ]( https://kuis-isle3sw.github.io/IoPLMaterials/ )
+
+[ モブプロにまつわる参考文献(4冊 + 60分)]( https://gist.github.com/mohira/034e29262628e22b6bc57ad4d338ffc7 )

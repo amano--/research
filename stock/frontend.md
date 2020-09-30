@@ -29,6 +29,8 @@
 
 ### React 
 
+[ Reactのコンポーネント周りの用語を整理する ]( https://blog.ojisan.io/react-component-words )
+
 [ React v17.0 Release Candidate: 新機能「なし」 ]( https://ja.reactjs.org/blog/2020/08/10/react-v17-rc.html )
 
 [ Awesome React ]( https://github.com/enaqx/awesome-react )
@@ -52,6 +54,7 @@
 
 [ Next.js 9.5 リリース詳細を完全翻訳！　段階的な静的再生成（安定版）, リダイレクトやルーティング機能の強化, Webpack 5 のサポートほか ]( https://qiita.com/thesugar/items/73a169c4d23e4bd91554 )
 
+[ next-auth ]( https://github.com/nextauthjs/next-auth )
 
 ### コンポーネントライブラリ
 
@@ -107,6 +110,13 @@ https://codepen.io/tonkotsuboy/pen/qBbpYzj
   place-items: center;
 }
 
+[ ts-sql ]( https://github.com/codemix/ts-sql )
+  This is a SQL database implemented purely in TypeScript type annotations.
+  This means that it operates solely on types - you define a "database" (just a type annotation) and then query it using some more type annotations.
+
+  It supports a subset of SQL, including SELECT (with conditions and joins), INSERT, UPDATE and DELETE statements.
+
+
 ### Lint 系
 
 [ check-dependencies ]( https://github.com/mgol/check-dependencies )
@@ -119,6 +129,8 @@ https://codepen.io/tonkotsuboy/pen/qBbpYzj
 
 [ Plasmic - The fast and fun visual builder for React.](https://www.plasmic.app/)
 
+[ A toolkit for building rich-text editors on the web ]( https://prosemirror.net/ )
+
 ### Test 
 
 [ Jest で new Date() をモック化する ]( https://qiita.com/clown0082/items/bbe42001c31be5a87c04 )
@@ -126,6 +138,13 @@ https://codepen.io/tonkotsuboy/pen/qBbpYzj
 [ ponicode AIが単体テストを生成 ]( ponicode.com )
 
 [ react-performance-testing ]( https://github.com/keiya01/react-performance-testing )
+
+[ Mock Service Worker - API mocking library for browser and Node ]( https://github.com/mswjs/msw )
+
+[ Learn the smart, efficient way to test any JavaScript application. ]( https://testingjavascript.com/ )
+
+[ UI コンポーネントをテストする ]( https://www.learnstorybook.com/intro-to-storybook/react/ja/test/ )
+
 
 
 ### UI Testing
@@ -135,12 +154,18 @@ https://codepen.io/tonkotsuboy/pen/qBbpYzj
 
 ### e2e
 
+[ playwright-cli ]( https://github.com/microsoft/playwright-cli )
+
 [ Cypressで始めるReactのE2Eテスト-導入から実際にテストを書いてみよう ]( https://microcms.io/blog/cypress-react-e2e/ )
 
 [ CodeceptJS ]( https://github.com/codeceptjs/CodeceptJS )
   - CodeceptJS is a new testing framework for end-to-end testing with WebDriver (or others). 
 
   [ E2Eテストの面倒くさいことはCodeceptJSにお願いしよう Selenium ]( https://qiita.com/Kesin11/items/11da1b4cf9d58e4dd9af )
+
+[ Root Cause - troubleshooting Puppeteer and Playwright tests.  ]( https://github.com/testimio/root-cause )
+
+[ TestCafe で E2E テストを始めよう #1 - 概要説明 と Hello World ]( https://tech.recruit-mp.co.jp/front-end/post-20193/ )
 
 ### Storybook
 
@@ -166,3 +191,10 @@ https://codepen.io/tonkotsuboy/pen/qBbpYzj
 
 [ webpack 実践入門: webpackの基礎をしっかり理解して使いこなす Kindle版 ]( https://www.amazon.co.jp/dp/B07X9H8JZZ/ )
 
+### 非同期
+
+[ Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript ]( https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/ )
+
+### その他
+
+[ フリー素材集 ]( https://stories.freepik.com/ )

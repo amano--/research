@@ -115,36 +115,71 @@
 
 [ React + GraphQL から成る Kaizen Ad のフロントエンド ]( https://developer.kaizenplatform.com/entry/2019/03/26/120000 )
 
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
+[ KEN_ALL.CSV (郵便番号検索)の落とし穴 ]( https://qiita.com/nanasess/items/0f0aeaa1f72f599b9142 )
+
+[ 本当に使ってよかったOpenAPI (Swagger) ツール ]( https://future-architect.github.io/articles/20191008/ )
+
+[ Stoplight Studio ]( https://stoplight.io/studio/ )
+
+[ drawio ]( https://github.com/jgraph/drawio )
+
+[ zugen ]( https://github.com/todokr/zugen  )
+
+[ Extensible Effects with Scala/eff-with-scala ]( https://speakerdeck.com/hiroki6/eff-with-scala )
+
+[ フロントエンドのトレンド〜サーバーレスSPA、Jamstack〜 ]( https://speakerdeck.com/shibe97/hurontoendofalsetorendo-sabaresuspa-jamstack )
+
+[ マンモスプロジェクトの使い方 ]( https://mmth.pro/ja )
+
+[ Mock Service Worker - API mocking library for browser and Node ]( https://github.com/mswjs/msw )
+
+[ Root Cause - troubleshooting Puppeteer and Playwright tests.  ]( https://github.com/testimio/root-cause )
+
+[ JavaScript疲れに効く！ codemodとJSCodeshiftでリファクタリングが捗る ]( https://www.webprofessional.jp/getting-started-with-codemods/ )
+
+[ codemod-cli ]( https://github.com/rwjblue/codemod-cli )
+
+[ Collection of TypeScript type challenges ]( https://github.com/type-challenges/type-challenges )
+
+[ Learn the smart, efficient way to test any JavaScript application. ]( https://testingjavascript.com/ )
+
+[ Test UI components ]( https://www.learnstorybook.com/intro-to-storybook/react/en/test/ )
+
+[ playwright-cli ]( https://github.com/microsoft/playwright-cli )
+
+[ 言語処理100本ノック 2020 (Rev 1) ]( https://nlp100.github.io/ja/ )
+
+[ フリー素材集 ]( https://stories.freepik.com/ )
+
+[ TestCafe で E2E テストを始めよう #1 - 概要説明 と Hello World ]( https://tech.recruit-mp.co.jp/front-end/post-20193/ )
+
+[ next-auth ]( https://github.com/nextauthjs/next-auth )
+
+[ Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript ]( https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/ )
+
+[ Reactのコンポーネント周りの用語を整理する ]( https://blog.ojisan.io/react-component-words )
+
+[ A toolkit for building rich-text editors on the web ]( https://prosemirror.net/ )
+
+[ CSS Media Queryを使ってブラウザがフルスクリーンであるかを判定する方法について。
+`display-mode: fullscreen`をMedia Queryを使い判定することでフルスクリーンとなった場合 ]( https://www.amitmerchant.com/how-to-detect-fullscreen-mode-using-css/ )
+
+[ SVGでパターン背景を生成するジェネレーターツール  | Free svg background image generator for your websites ]( https://bgjar.com/ )
+
+[ JavaScriptのテストを通るように関数を実装するJavaScriptの練習問題集 ]( https://www.jschallenger.com/ )
+
+[ Recoil的なObserver Patternのステート管理を実装しながら仕組みを見ていく話 ]( https://bennetthardwick.com/blog/recoil-js-clone-from-scratch-in-100-lines/ )
+
+[ あなたの知らない連絡先の世界 ]( https://speakerdeck.com/coe/anatafalsezhi-ranailian-luo-xian-falseshi-jie )
+
+[ フルスタックエンジニアになるためのモダンな8つのプロジェクト ]( https://qiita.com/kanye__east/items/77a9746e9b98abbb97e6 )
+
+[ ts-sql ]( https://github.com/codemix/ts-sql )
+  This is a SQL database implemented purely in TypeScript type annotations.
+  This means that it operates solely on types - you define a "database" (just a type annotation) and then query it using some more type annotations.
+
+  It supports a subset of SQL, including SELECT (with conditions and joins), INSERT, UPDATE and DELETE statements.
+
 [  ](  )
 [  ](  )
 [  ](  )

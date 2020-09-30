@@ -1,3 +1,45 @@
+Function: 
+    Value -> Value
+
+Type Class:
+    Type -> Value
+
+Type-level Programming:
+    Type -> Type
+
+Dependent Types:
+    Value -> Type
+    
+    github.com で便利なショートカット。よく忘れるので書いとく。
+
+t - ファイル検索
+l - 指定行数にジャンプ
+y - ファイルの URL をパーマリンクにする
+b - blame 表示
+? - ショートカット一覧を表示
+
+bit.ly/322H3E9
+
+もう何ヶ月も型パズル解いてないけど
+型パズルと戦うときに初めにやることは
+noErrorTruncation: trueとtsconfigに書くことだった気がする
+
+
+type Join<T extends readonly (string | number | boolean | bigint)[], D extends string> =
+    T extends readonly [] ? '' :
+    T extends readonly [unknown] ? `${T[0]}` :
+    T extends readonly [unknown, ...infer U] ? `${T[0]}${D}${Join<U, D>}` :
+    string;
+
+function join<
+  T extends readonly (string | number | boolean | bigint)[],
+  D extends string
+>(arr: T, del: D) {
+    return arr.join(del) as Join<T, D>
+}
+
+const word = join(['Hello', 'World'] as const, ' x ')
+
 
 天然のレガシーコードは、手持ちのスキルでなんとか先に進めようという真面目さとか必死さ、ある種の善意から生まれる。養殖物のレガシーコードは、研修や本のためにレガシーコードを書いてやろうというある種の悪意から生まれる。悪意は善意を超えられない……
 

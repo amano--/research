@@ -1,4 +1,10 @@
-Function: 
+- アランケイのメッセージ指向(Smalltalk)?
+    - ビャーネ・ストラウストラップのクラス指向(C++)?
+    - バートランドメイヤーのインターフェース指向(Java/C#/Rust)?
+    - Selfから始まったプロトタイプベース(Self/Javascript)?
+    - 「あなたのオブジェクト指向はどこから？」でスタートするのが良いかも()
+    
+ Function: 
     Value -> Value
 
 Type Class:

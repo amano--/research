@@ -23,6 +23,8 @@
 
 [ なぜ default export を使うべきではないのか？ ]( https://engineering.linecorp.com/ja/blog/you-dont-need-default-export/ )
 
+[ TypeScript 練習問題集(Practice TypeScript and Playground) latest update(2020/9/21) ]( https://gist.github.com/kenmori/8cea4b82dd12ad31f565721c9c456662 )
+
 ### Typescript 上級
 
 ### Typescript Javascript 特殊記法
@@ -34,6 +36,8 @@
 [JavaScriptのOptional ChainingとNullish Coalescing Operatorでnullやundefinedと戦う](https://sbfl.net/blog/2020/03/24/javascript-null-aware/)
 
 ### React 初級
+
+[ Reactのコンポーネント周りの用語を整理する ]( https://blog.ojisan.io/react-component-words )
 
 
 ### React 中級

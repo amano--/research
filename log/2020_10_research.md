@@ -6,12 +6,18 @@
 
 [ Modern Web Development on the JAMstack を読んでまとめた ]( https://lealog.hateblo.jp/entry/2020/09/30/163242 )
 
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
+[ Reactのコンポーネント周りの用語を整理する ]( https://blog.ojisan.io/react-component-words )
+
+[ JAMstackConf ]( https://www.youtube.com/c/JAMstackConf/videos )
+
+[ TypeScript 練習問題集(Practice TypeScript and Playground) latest update(2020/9/21) ]( https://gist.github.com/kenmori/8cea4b82dd12ad31f565721c9c456662 )
+
+[ webpack@5の主な変更点まとめ ]( https://blog.hiroppy.me/entry/webpack5 )
+
+[ spectrum tempalte]( https://github.com/evargast/webpack-react-spectrum )
+
+[ spectrum sample ]( https://github.com/evargast/react-spectrum-dashboard )
+
 [  ](  )
 [  ](  )
 [  ](  )

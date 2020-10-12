@@ -180,11 +180,3 @@
 
   It supports a subset of SQL, including SELECT (with conditions and joins), INSERT, UPDATE and DELETE statements.
 
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-
-
-

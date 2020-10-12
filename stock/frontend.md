@@ -50,6 +50,10 @@
 - Form関係
 [ react-hook-form ]( https://github.com/react-hook-form/react-hook-form/blob/master/docs/README.ja-JP.md )
 
+### react-spectrum
+
+[ spectrum tempalte]( https://github.com/evargast/webpack-react-spectrum )
+
 ### Next.js
 
 [ Next.js 9.5 リリース詳細を完全翻訳！　段階的な静的再生成（安定版）, リダイレクトやルーティング機能の強化, Webpack 5 のサポートほか ]( https://qiita.com/thesugar/items/73a169c4d23e4bd91554 )
@@ -67,6 +71,7 @@
   - an ecosystem of composable React components for building interactive data visualizations.
 
 ### CSS
+
 [ CSS Grid Layout Generator でレイアウト用CSSを生成する ]( https://qiita.com/mizchi/items/c63ca1c6ed038f0bf8e4 )
 
 [ 現代開発者のためのCSS基礎技術 ]( https://qiita.com/arowM/items/e1af320e2755461649a0#comments )
@@ -190,6 +195,8 @@ https://codepen.io/tonkotsuboy/pen/qBbpYzj
 [ webpackのTree Shakingを理解して不要なコードがバンドルされるのを防ぐ ]( https://qiita.com/soarflat/items/755bbbcd6eb81bd128c4 )
 
 [ webpack 実践入門: webpackの基礎をしっかり理解して使いこなす Kindle版 ]( https://www.amazon.co.jp/dp/B07X9H8JZZ/ )
+
+[ webpack@5の主な変更点まとめ ]( https://blog.hiroppy.me/entry/webpack5 )
 
 ### 非同期
 

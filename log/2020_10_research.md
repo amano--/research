@@ -18,7 +18,8 @@
 
 [ spectrum sample ]( https://github.com/evargast/react-spectrum-dashboard )
 
-[  ](  )
+[ cats-infographic ]( https://github.com/tpolecat/cats-infographic )
+
 [  ](  )
 [  ](  )
 [  ](  )

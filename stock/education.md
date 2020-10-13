@@ -127,6 +127,8 @@ xは実行コマンドを標準エラー出力
 
 [ リアクティブアーキテクチャ基礎講座 ]( https://speakerdeck.com/j5ik2o/riakuteihuakitekutiyaji-chu-jiang-zuo )
 
+[ cats-infographic ]( https://github.com/tpolecat/cats-infographic )
+
 ### Web一般
 
 [ フルスタックエンジニアになるためのモダンな8つのプロジェクト ]( https://qiita.com/kanye__east/items/77a9746e9b98abbb97e6 )

@@ -114,6 +114,7 @@ https://codepen.io/tonkotsuboy/pen/qBbpYzj
   display: grid;
   place-items: center;
 }
+[ 憧れのTypeScriptフルスタック環境がコマンド1発で作れる超軽量フレームワーク「frourio」 ]( https://qiita.com/m_mitsuhide/items/00b139bb565dddf8006a )
 
 [ ts-sql ]( https://github.com/codemix/ts-sql )
   This is a SQL database implemented purely in TypeScript type annotations.

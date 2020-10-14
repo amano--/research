@@ -20,7 +20,8 @@
 
 [ cats-infographic ]( https://github.com/tpolecat/cats-infographic )
 
-[  ](  )
+[ 憧れのTypeScriptフルスタック環境がコマンド1発で作れる超軽量フレームワーク「frourio」 ]( https://qiita.com/m_mitsuhide/items/00b139bb565dddf8006a )
+
 [  ](  )
 [  ](  )
 [  ](  )

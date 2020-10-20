@@ -87,43 +87,31 @@ Spectrum の所感でも述べたように、Hooks 登場以前と以後には�
 
 また、その他条件(アクセシビリティ、デザイン変更の容易性、コード理解の容易性、等) を勘案しても Spectrum に優位性がある、というのが今のところの結論。
 
+### 導入事例
 
-### その他 コンポーネントライブラリ
+- material-ui
 
-[ ant-design ]( https://github.com/ant-design/ant-design/ )
+  - [ 事例一覧 ] (https://material-ui.com/ja/discover-more/showcase/ )
 
-[ Semantic-UI-React ]( https://github.com/Semantic-Org/Semantic-UI-React )
+  [ react-admin ]( https://github.com/marmelab/react-admin )
 
-[ react-bootstrap ]( https://github.com/react-bootstrap/react-bootstrap )
+  - 日本の例
+  
+    [ Hokan - 保険代理店様の営業を最適化 ](https://www.hkn.jp/)
+      
+    [ barks ](https://www.barks.jp/)
 
-## git clone 集
-
-git clone https://github.com/adobe/react-spectrum.git
-
-git clone https://github.com/tailwindlabs/tailwindcss.git
-
-git clone https://github.com/microsoft/fluentui.git
-
-git clone https://github.com/mui-org/material-ui.git
-
-git clone https://github.com/ant-design/ant-design.git
-
-git clone https://github.com/react-bootstrap/react-bootstrap.git
-
-git clone https://github.com/Semantic-Org/Semantic-UI-React.git
-
+- React Spectrum
+  
+  (要調査)
 
 ### ドキュメント・資料について
 
 - React Spectrum
 
-CSS に関する props だと ソースコードコメントに MDN へのリンクが張られており、MDNはほぼ日本語化されているので、VSCodeから素早く有用な日本語情報へのリーチはしやすい
+CSS に関する props だと ソースコードコメントに MDN へのリンクが張られており、MDNはほぼ日本語化されているので、VSCodeから素早く有用な日本語情報へのリーチはしやすい。
 
-- material-ui
-
-
-Hooks 以前の日付だが、英語の本が出ているようだ [ 2019/3/30 React Material-UI Cookbook: Build captivating user experiences using React and Material-UI (English Edition) Kindle版 ]( https://www.amazon.co.jp/React-Material-UI-Cookbook-captivating-experiences-ebook/dp/B07KJNQ44C
- )
+.d.tsのソースマップ が作成されているようなので、VSCodeからコードが追えるようになっていると思われる(要検証)。(現在、自端末では動作確認はできていない)
 
 [ tsconfig - declarationMap ]( https://www.typescriptlang.org/ja/tsconfig#declarationMap )
 
@@ -136,9 +124,18 @@ Declaration Map - declarationMap
 プエジェクト参照機能を利用している場合、このオプションの有効化を強く推奨します。
 ```
 
-見る人が限られている管理画面等が 殺風景 なので少し装飾したい、というニーズがほとんどで一般向けの画面に使用された、という例は聞いたことがない(よく調べればあるかもしれない)
+- material-ui
 
-そのため、情報もそういう系が多くノイズに結構引っかかる。
+公式ドキュメントに日本語訳があるにはあるが、[ コード部分が訳されていたり ](https://material-ui.com/ja/customization/globals/) 等、翻訳が校正されずに放置されてるのが散見されたりする(2-3年前から変わっていない) ので、あまり信用はできない。DeepL とかで、再翻訳したほうが質は高そう。
+
+Hooks 以前の日付だが、英語の本が出ているようだ [ 2019/3/30 React Material-UI Cookbook: Build captivating user experiences using React and Material-UI (English Edition) Kindle版 ]( https://www.amazon.co.jp/React-Material-UI-Cookbook-captivating-experiences-ebook/dp/B07KJNQ44C
+ )
+
+- 所感
+
+ material-ui の用途、見る人が限られている管理画面等が 殺風景 なので少し装飾したい、といったものや、OSSでデザインにコストかけたくない等、がほとんどと考えられ、日本語情報は「管理画面つくってみた」系ばかりで、情報の質が低く、Hooks以前の情報も大量に引っかかる為ノイズが多い。
+
+ また、調べたいことのほどんどは各コンポーネントの props の使い方なので、ニッチすぎて Google検索だと、引っかからないか、ノイズばっかり引っかかる為、公式ドキュメントの質やコードの質のほうが重要になる。その点でかんがえると  props 一つ一つにMDN へのリンクが張られ、TSで書かれ、UNION型で型付されて補完もしやすい Spectrum のほうが優秀と個人的に考えている
 
 ### CSSカスタマイズ
 
@@ -191,13 +188,15 @@ CSS ファイルを上書きする方法は提供されていないようなの�
 
   デザイナに外注等するなら、Spectrum 有利。プログラマーが多少カスタマイズする程度、なら material-ui が適しているかもしれない。
 
-### その他
+### 検索、トレンド比較
 
 - Google 検索結果 
 
   React → 約 34900 万件
+
   React Spectrum → 約 126,00 万件
     ノイズが多そうなので Adobe React Spectrum → 約 198 万件
+  
   React material-ui → 約 1580 万件
 
 - トレンド比較
@@ -206,7 +205,7 @@ CSS ファイルを上書きする方法は提供されていないようなの�
 
    Material-UI が優勢(目算で10倍程度?)
 
-- ライセンス
+### ライセンス
 
   React Spectrum   Apache-2.0 License
 
@@ -234,42 +233,104 @@ CSS ファイルを上書きする方法は提供されていないようなの�
 
     企業で使うなら、 Apache-2.0 License の  React Spectrum が 若干有利か?  
 
+### カスタムコンポーネントの作りやすさ
 
+- React Spectrum
+  
+  振る舞い部分を Hooks に切り出されているので、カスタムコンポーネントは、作りやすいと思われる
 
+```typescript
+import {useRadioGroupState} from '@react-stately/radio';
+
+function RadioGroup(props) {
+  let state = useRadioGroupState(props);
+
+  return (
+    <>
+      <label>
+        <input
+          type="radio"
+          name={state.name}
+          checked={state.selectedValue === 'dogs'}
+          onChange={() => state.setSelectedValue('dogs')}
+        />
+        Dogs
+      </label>
+      <label>
+        <input
+          type="radio"
+          name={state.name}
+          checked={state.selectedValue === 'cats'}
+          onChange={() => state.setSelectedValue('cats')}
+        />
+        Cats
+      </label>
+    </>
+  );
+}
+
+<RadioGroup
+  defaultValue="dogs"
+  onChange={(value) => alert(`Selected ${value}`)}
+/>
 ```
-```
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
 
+- material-ui 
 
+(要検証)
+
+### コンポーネントの充実度
+
+(要検証)
+
+material-ui の方が多い印象。しかし、React Spectrum は、より大きな枠組みの [ Spectrum - Adobe’s design system ]( https://spectrum.adobe.com/ ) (XD File,CSS,WebComponents等のリソース集) の 一実装、という位置づけのようなので Spectrum design system 自体のコンポーネント数はもっと多い(React Spectrum の実装範囲は目算で 6-7割 位に見える) 
+
+### マルチデバイス対応
+
+(要検証)
+
+### a11y対応
+
+(要検証)
+
+### TypeScro.ipt
+
+(要検証)
+
+### PoC 適性
+
+(要検証)
+
+### SSG,SSR
+
+(要検証)
+
+### その他 コンポーネントライブラリ
+
+[ ant-design ]( https://github.com/ant-design/ant-design/ )
+
+[ Semantic-UI-React ]( https://github.com/Semantic-Org/Semantic-UI-React )
+
+[ react-bootstrap ]( https://github.com/react-bootstrap/react-bootstrap )
+
+### その他 情報
+
+[ 開発者のためのReactJSロードマップ ]( https://itnews.org/news_contents/reactjs-roadmap-for-developers-2824 )
+
+[ Best CSS Frameworks in 2020 ]( https://dev.to/theme_selection/best-css-frameworks-in-2020-1jjh )
+
+## git clone 集
+
+git clone https://github.com/adobe/react-spectrum.git
+
+git clone https://github.com/tailwindlabs/tailwindcss.git
+
+git clone https://github.com/microsoft/fluentui.git
+
+git clone https://github.com/mui-org/material-ui.git
+
+git clone https://github.com/ant-design/ant-design.git
+
+git clone https://github.com/react-bootstrap/react-bootstrap.git
+
+git clone https://github.com/Semantic-Org/Semantic-UI-React.git

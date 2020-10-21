@@ -48,6 +48,7 @@
 
 - [ react-typescript-cheatsheet ]( https://react-typescript-cheatsheet.netlify.app/ )
 
+[ TypeScriptの型を手に馴染ませるためにやっていること ]( https://blog.shibayu36.org/entry/2020/10/15/173000 )
 
 [  ](  )
 [  ](  )

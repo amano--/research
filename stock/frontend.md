@@ -19,7 +19,6 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
 
 ### Typescript
 
@@ -206,3 +205,7 @@ https://codepen.io/tonkotsuboy/pen/qBbpYzj
 ### その他
 
 [ フリー素材集 ]( https://stories.freepik.com/ )
+
+[ VS Code上でガイド付きのコードツアーができる🐕
+エクスポートして配布もできる ](  https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour )
+

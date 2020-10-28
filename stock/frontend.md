@@ -206,6 +206,8 @@ https://codepen.io/tonkotsuboy/pen/qBbpYzj
 
 [ フリー素材集 ]( https://stories.freepik.com/ )
 
+[ sharp The typical use case for this high speed Node.js module is to convert large images in common formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions ]( https://github.com/lovell/sharp )
+
 [ VS Code上でガイド付きのコードツアーができる🐕
 エクスポートして配布もできる ](  https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour )
 

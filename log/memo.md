@@ -1,3 +1,5 @@
+コードの最後まで実行されてからUnhandled Rejectionになったのは、Promiseがmicrotaskとして扱われているから、という説明ではダメなのだろうか
+
 Bubble.ioでフロントエンドをノーコード開発してみた。
 API Connectorプラグインとデザイン画面のinsert dynamic dataの組み合わせはほんと便利。
 APIで取得したJSONの構造を解析したデータ項目のサジェションが使いやすい。

@@ -53,6 +53,8 @@
 
 [ spectrum tempalte]( https://github.com/evargast/webpack-react-spectrum )
 
+[ Adobe Design System の React Spectrum を理解していく ~ Part 1 概要~ ]( https://zenn.dev/sakito/articles/608e0d5753d2ee4c3e69 )
+
 ### Next.js
 
 [ Next.js 9.5 リリース詳細を完全翻訳！　段階的な静的再生成（安定版）, リダイレクトやルーティング機能の強化, Webpack 5 のサポートほか ]( https://qiita.com/thesugar/items/73a169c4d23e4bd91554 )

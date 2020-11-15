@@ -26,6 +26,9 @@
 
 [ TypeScript の型システム / Type system of the TypeScript ]( https://speakerdeck.com/saiya_moebius/type-system-of-the-typescript )
 
+[ TypeScriptのコンパイルパフォーマンスについてまとめられているページ ]( https://github.com/microsoft/TypeScript/wiki/Performance )
+　　typeとinterface、Base TypeとUnion Type、Project Reference、tsconfig.jsonの設定による最適化について
+
 ### React 
 
 [ Reactのコンポーネント周りの用語を整理する ]( https://blog.ojisan.io/react-component-words )
@@ -60,6 +63,8 @@
 [ Next.js 9.5 リリース詳細を完全翻訳！　段階的な静的再生成（安定版）, リダイレクトやルーティング機能の強化, Webpack 5 のサポートほか ]( https://qiita.com/thesugar/items/73a169c4d23e4bd91554 )
 
 [ next-auth ]( https://github.com/nextauthjs/next-auth )
+
+[ Next.js Conf2020 ]( youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD )
 
 ### コンポーネントライブラリ
 
@@ -107,6 +112,9 @@
 
 [ restylecss ]( http://www.restylecss.com/ )
 
+[ cxa-template-react ]( https://github.com/kotofurumiya/cxa-template-react )
+　　Reactのテンプレートもクソほどシンプルにしてる。小規模構成がベースで、欲しいものはaddonで追加してくれって思想。
+　　npx create-xxx-app --template react --addon eslint,prettier your-project-name
 
 https://codepen.io/tonkotsuboy/pen/qBbpYzj
 
@@ -115,6 +123,7 @@ https://codepen.io/tonkotsuboy/pen/qBbpYzj
   display: grid;
   place-items: center;
 }
+
 [ 憧れのTypeScriptフルスタック環境がコマンド1発で作れる超軽量フレームワーク「frourio」 ]( https://qiita.com/m_mitsuhide/items/00b139bb565dddf8006a )
 
 [ ts-sql ]( https://github.com/codemix/ts-sql )

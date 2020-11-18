@@ -23,9 +23,12 @@
 [ TypeScriptのコンパイルパフォーマンスについてまとめられているページ ]( https://github.com/microsoft/TypeScript/wiki/Performance )
 　　typeとinterface、Base TypeとUnion Type、Project Reference、tsconfig.jsonの設定による最適化について
 
-[  ](  )
-[  ](  )
-[  ](  )
+[ Blitz.js - React on Rails ]( https://qiita.com/nitaking/items/edfaae19d0b54aae7f9c )
+
+[ Next.jsにおけるSSG（静的サイト生成）とISRについて（自分の）限界まで丁寧に説明する ]( https://qiita.com/thesugar/items/47ec3d243d00ddd0b4ed )
+
+[ React入門 未経験から1週間でReactをマスターする #01. プロジェクトの作成と立ち上げ ]( https://qiita.com/yassun-youtube/items/2ae26050efd2133c2286 )
+
 [  ](  )
 [  ](  )
 [  ](  )

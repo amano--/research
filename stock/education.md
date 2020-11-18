@@ -102,6 +102,9 @@
 
 [ 今週大幅にリニューアルされた Next.js のチュートリアルをどこよりも早く全編和訳しました ]( https://qiita.com/thesugar/items/01896c1faa8241e6b1bc )
 
+[ Next.jsにおけるSSG（静的サイト生成）とISRについて（自分の）限界まで丁寧に説明する ]( https://qiita.com/thesugar/items/47ec3d243d00ddd0b4ed )
+
+
 ### フロントエンド一般
 
 [ Deep Dive Into Modern Web Development ]( https://fullstackopen.com/en/ )

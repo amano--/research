@@ -197,6 +197,10 @@ https://codepen.io/tonkotsuboy/pen/qBbpYzj
 - [ Foal TS ]( https://foalts.org/ )
   [ TypeScript 製のフレームワーク FoalTS を使ってみる ]( https://qiita.com/riaf/items/9835ea1d3e0258751046 )
 
+[ frourio - Fast and type-safe full stack framework, for TypeScript ]( https://github.com/frouriojs/frourio )
+
+[ Blitz.js - React on Rails ]( https://qiita.com/nitaking/items/edfaae19d0b54aae7f9c )
+
 ### Tool Chain 関連
 
 #### webpack

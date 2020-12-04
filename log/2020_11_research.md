@@ -31,9 +31,8 @@
 
 [ frourio - Fast and type-safe full stack framework, for TypeScript ]( https://github.com/frouriojs/frourio )
 
-[ nextjs-microcms-tsx-jamstack-aspida-boilerplate ]( https://github.com/TeXmeijin/nextjs-microcms-tsx-jamstack-aspida-boilerplate )
-　　This is a Next.js project bootstrapped with microCMS, aspida. And this is using TSX, 
-　　Incremental Static Regeneration
+[ nextjs-microcms-tsx-jamstack-aspida-boilerplate ](  )
+This is a Next.js project bootstrapped with microCMS, aspida. And this is using TSX, Incremental Static Regeneration
 
 [  ](  )
 [  ](  )

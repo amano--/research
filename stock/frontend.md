@@ -87,6 +87,11 @@
 [ Tailwind Blog Template ]( https://github.com/davidgrzyb/tailwind-blog-template )
 
 
+#### プロジェクト構造
+
+[ フロントエンドと素朴なコードベース ]( https://zoshigayan.net/soboku-solution/ )
+  
+  src 以下のディレクトリ構造に関して知見が書かれている
 
 #### tailwindcss
 

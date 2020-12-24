@@ -24,12 +24,20 @@
 
 [ フロントエンドに関わる人のスキルとして触れておきたい・知っておきたいこと ]( https://zenn.dev/yamanoku/scraps/632e570e160251839d48 )
 
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
+[ Nextein is a static site & blog generator. Combine the simplicity of Markdown and the power of Next.js. ]( https://nextein.elmasse.io/ )
+
+[ Webアクセシビリティ Advent Calendar 2020 ]( https://adventar.org/calendars/5001 )
+
+[ タスクベースUIとREST ]( https://qiita.com/NaokiTsuchiya/items/fe5622639d5f57c172d3 )
+
+[ Micro Frontends Architecture Patterns ]( https://zenn.dev/okmttdhr/books/8c977618755cb68ad2c0 )
+
+[ Architect Elevator Blog日本語版について ]( https://yyamano.github.io/architectelevator-ja/?fbclid=IwAR0SOdh2fIfa7fA8vwNYc-PjhCvlhxe-c_nuMz2f6BL_m39J4bamcNCN-Vk )
+
+[ マルチコメントビューア ]( https://ryu-s.github.io/app/multicommentviewer )
+
+[ ドメイン駆動設計 Advent Calendar 2020 ]( https://qiita.com/advent-calendar/2020/ddd )
+
 [  ](  )
 [  ](  )
 [  ](  )

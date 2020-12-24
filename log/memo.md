@@ -1,3 +1,31 @@
+[ DeepL ] ( https://www.deepl.com/ja/translator )
+- 英和
+  - [ Webilio ] ( https://ejje.weblio.jp/ ) 
+- 英英
+ - [ longman ] (https://www.ldoceonline.com)
+ - [ oxford ] (https://www.oxfordlearnersdictionaries.com)
+ - [ cambridge ]  (https://dictionary.cambridge.org/)
+- 語源辞書
+  - [ etym ] (https://www.etymonline.com/)
+- 類語
+  - [ thesaurus ]( https://www.thesaurus.com/ )
+  
+デザイン思考が世界を変える
+エンジニアのためのデザイン思考入門
+デザインシンキング・プレイブック
+リーン・スタートアップ
+Running Lean
+リーン顧客開発
+エクストリームプログラミング
+エッセンシャルスクラム
+カンバン仕事術
+
+コードには How
+テストコードには What
+コミットログには Why
+コードコメントには Why not
+
+
 コードの最後まで実行されてからUnhandled Rejectionになったのは、Promiseがmicrotaskとして扱われているから、という説明ではダメなのだろうか
 
 Bubble.ioでフロントエンドをノーコード開発してみた。

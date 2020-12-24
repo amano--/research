@@ -152,3 +152,20 @@ xは実行コマンドを標準エラー出力
 [ 京都大学工学部専門科目「プログラミング言語処理系」講義資料 ]( https://kuis-isle3sw.github.io/IoPLMaterials/ )
 
 [ モブプロにまつわる参考文献(4冊 + 60分)]( https://gist.github.com/mohira/034e29262628e22b6bc57ad4d338ffc7 )
+
+### 翻訳時参考になるサイト
+
+[ DeepL ] ( https://www.deepl.com/ja/translator )
+- 英和
+  - [ Webilio ] ( https://ejje.weblio.jp/ ) 
+
+- 英英
+ - [ longman ] (https://www.ldoceonline.com)
+ - [ oxford ] (https://www.oxfordlearnersdictionaries.com)
+ - [ cambridge ]  (https://dictionary.cambridge.org/)
+
+- 語源辞書
+  - [ etym ] (https://www.etymonline.com/)
+
+- 類語
+  - [ thesaurus ]( https://www.thesaurus.com/ )

@@ -1,3 +1,46 @@
+ビジネスルールを表現する５点セット。
+値オブジェクト（金額、数量、日付、地点、...)
+区分オブジェクト(商品区分、サービス区分、状態区分、...)
+範囲オブジェクト(価格帯、期間、地域、...)
+コレクションオブジェクト(順序・集合・写像）
+表オブジェクト（価格表、判定表、...)
+
+project
+subject
+object
+reject
+inject
+deject
+eject
+
+jectつながり
+みんな投げる
+
+前へ
+下へ
+そっちへ
+返す
+中に
+逆へ
+外に
+
+produce
+reduce
+induce
+deduce
+educe
+
+duceつながり
+みんな引っ張る
+
+前に
+後ろに
+中に
+外に
+強く
+
+[ マルチコメントビューア ]( https://ryu-s.github.io/app/multicommentviewer )
+
 [ DeepL ] ( https://www.deepl.com/ja/translator )
 - 英和
   - [ Webilio ] ( https://ejje.weblio.jp/ ) 

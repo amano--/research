@@ -12,9 +12,10 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
 
 ### Typescript 初級
+[ 仕事ですぐに使える TypeScript ]( https://future-architect.github.io/typescript-guide/typescript-guide.pdf )
+
 [ TypeScript学習ロードマップ ]( https://qiita.com/irico/items/33744e15a4e0ca52d6bc )
 
 ### Typescript 中級
@@ -144,7 +145,10 @@ xは実行コマンドを標準エラー出力
 
   [ RESTアプリケーション設計実装手順 ]( https://qiita.com/koriym/items/cb6efd0ab2fb8751f9e9 )
 
+### 練習問題
 
+- Java
+  [ 型のトレーニング用リポジトリです。](https://github.com/kawasima/kata)
 ### プログラミング 一般
 
 [ 言語処理100本ノック 2020 (Rev 1) ]( https://nlp100.github.io/ja/ )

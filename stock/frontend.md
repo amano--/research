@@ -103,10 +103,11 @@
 
 [ 翻訳：CSSユーティリティクラスと「関心の分離」（いかにしてユーティリティファーストにたどり着いたか） ](https://yuheiy.hatenablog.com/entry/2020/05/25/021342)
 
-#### デザイン関係
+#### デザインシステム関係
 
 [ Francfrancデザインシステムとは ]( https://francfranc.io/design-system-guidelines/design-system/ )
 
+[ SmartHR Design System ]( https://www.smarthr.design/12597874e/p/87ebf8-smarthr-design-system )
 #### GraphQL
 
 [ Hasura GraphQL Engine ](https://github.com/hasura/graphql-engine/)

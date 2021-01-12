@@ -8,8 +8,11 @@ Chacraがtailwindっぽいemotionだとすると, xstyledはemotionっぽいtail
 
 [ xstyled ]( https://xstyled.dev/ )
 
-[  ](  )
-[  ](  )
+[ react-share ]( https://github.com/nygardk/react-share)
+  - Social media share buttons and share counts for React.
+
+[ イケてる全文検索サービス「Algolia」を触ってみよう ]( https://qiita.com/tschy/items/eefbb3a0dc60cd11ab9a )
+
 [  ](  )
 [  ](  )
 [  ](  )

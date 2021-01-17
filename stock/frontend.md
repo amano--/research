@@ -110,6 +110,8 @@
 [ SmartHR Design System ]( https://www.smarthr.design/12597874e/p/87ebf8-smarthr-design-system )
 #### GraphQL
 
+[ GraphQLデザインチュートリアル(前編) ]( https://qiita.com/hitochan777/items/04c16ca770f7b3a84af5 )
+
 [ Hasura GraphQL Engine ](https://github.com/hasura/graphql-engine/)
 
 [ Building a Instagram clone in React with GraphQL and Hasura - Part I ]( https://hasura.io/blog/instagram-clone-react-graphql-hasura-part1/ )

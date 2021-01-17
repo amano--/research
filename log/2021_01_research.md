@@ -20,7 +20,10 @@ Chacraがtailwindっぽいemotionだとすると, xstyledはemotionっぽいtail
 
 [ 今からでも遅くない！誰も教えてくれなかった React とアクセシビリティーの世界 ]( https://zenn.dev/neet/articles/8b4d8d42fb2a5e )
 
-[  ](  )
+[ Next.jsに「できるだけ」依存しないReactアプリケーションの構成 ]( https://zenn.dev/panda_program/articles/nextjs-architecture )
+
+[ JavaScript ベスト・オブ・ザ・イヤー 2020 ]( https://qiita.com/rana_kualu/items/e8a0f8f5589ff082539d )
+
 [  ](  )
 [  ](  )
 [  ](  )

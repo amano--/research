@@ -66,6 +66,8 @@
 
 [ Next.js Conf2020 ]( youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD )
 
+[ Next.jsに「できるだけ」依存しないReactアプリケーションの構成 ]( https://zenn.dev/panda_program/articles/nextjs-architecture )
+
 ### コンポーネントライブラリ
 
 - a11y アニメーション等
@@ -105,6 +107,7 @@
 
 #### デザインシステム関係
 
+[ Sociomedia ヒューマンインターフェース ガイドライン ](https://www.sociomedia.co.jp/category/shig)
 [ Francfrancデザインシステムとは ]( https://francfranc.io/design-system-guidelines/design-system/ )
 
 [ SmartHR Design System ]( https://www.smarthr.design/12597874e/p/87ebf8-smarthr-design-system )

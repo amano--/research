@@ -24,7 +24,8 @@ Chacraがtailwindっぽいemotionだとすると, xstyledはemotionっぽいtail
 
 [ JavaScript ベスト・オブ・ザ・イヤー 2020 ]( https://qiita.com/rana_kualu/items/e8a0f8f5589ff082539d )
 
-[  ](  )
+[ 複数のサブスキーマを持つデータへの対応におけるスキーマ記述言語の比較 ]( https://eng-blog.iij.ad.jp/archives/6813 )
+
 [  ](  )
 [  ](  )
 [  ](  )

@@ -36,7 +36,8 @@ Chacraがtailwindっぽいemotionだとすると, xstyledはemotionっぽいtail
 [ outsystems ]( https://www.outsystems.com/ja-jp/ )
 ローコード開発
 
-[  ](  )
+[ tableの情報を見やすくするCSSコード ]( https://twitter.com/pulpxstyle/status/1356392459291398144 )
+
 [  ](  )
 [  ](  )
 [  ](  )

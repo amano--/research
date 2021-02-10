@@ -38,8 +38,10 @@ Chacraがtailwindっぽいemotionだとすると, xstyledはemotionっぽいtail
 
 [ tableの情報を見やすくするCSSコード ]( https://twitter.com/pulpxstyle/status/1356392459291398144 )
 
-[  ](  )
-[  ](  )
+[ Next.js(SSG)でページネーションを実装してみよう ]( https://blog.microcms.io/next-pagination/ )
+
+[ stateofjs - フロントエンドフレームワーク]( https://2020.stateofjs.com/ja-JP/technologies/front-end-frameworks/ )
+
 [  ](  )
 [  ](  )
 [  ](  )

@@ -42,7 +42,10 @@ Chacraがtailwindっぽいemotionだとすると, xstyledはemotionっぽいtail
 
 [ stateofjs - フロントエンドフレームワーク]( https://2020.stateofjs.com/ja-JP/technologies/front-end-frameworks/ )
 
-[  ](  )
+## 2021-03
+
+[ 2021年2月版、フルリモートでのエンジニア採用を実施している企業のカオスマップが公開 ]( https://codezine.jp/article/detail/13736 )
+
 [  ](  )
 [  ](  )
 [  ](  )

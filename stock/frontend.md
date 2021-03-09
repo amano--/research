@@ -29,6 +29,8 @@
 [ TypeScriptのコンパイルパフォーマンスについてまとめられているページ ]( https://github.com/microsoft/TypeScript/wiki/Performance )
 　　typeとinterface、Base TypeとUnion Type、Project Reference、tsconfig.jsonの設定による最適化について
 
+[ TypeScript v4 まとめ ]( https://zenn.dev/smish0000/articles/8da1f46aa4465f )
+
 ### React 
 
 [ Reactのコンポーネント周りの用語を整理する ]( https://blog.ojisan.io/react-component-words )
@@ -87,6 +89,8 @@
 [ レスポンシブ ウェブデザイン パターン ]( https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns?hl=ja )
 
 [ Tailwind Blog Template ]( https://github.com/davidgrzyb/tailwind-blog-template )
+
+[ WindiCSS：次世代 Tailwind CSS コンパイラ ]( https://zenn.dev/hannoeru/articles/ce1a88a08b8dc4 )
 
 
 #### プロジェクト構造

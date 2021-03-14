@@ -52,7 +52,8 @@ Chacraがtailwindっぽいemotionだとすると, xstyledはemotionっぽいtail
 
 [ MSW Storybook Addon ‐ Mock Service Worker ]( https://storybook.js.org/addons/msw-storybook-addon )
 
-[  ](  )
+[ Next.jsベースの静的サイトジェネレーターNextraが非常に便利だった話 ]( https://zenn.dev/steelydylan/articles/what-is-nextra )
+
 [  ](  )
 [  ](  )
 [  ](  )

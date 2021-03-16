@@ -54,8 +54,9 @@ Chacraがtailwindっぽいemotionだとすると, xstyledはemotionっぽいtail
 
 [ Next.jsベースの静的サイトジェネレーターNextraが非常に便利だった話 ]( https://zenn.dev/steelydylan/articles/what-is-nextra )
 
-[  ](  )
-[  ](  )
+[ お世話になってるデザインの情報収集源 ]( https://catnose99.com/example-design/ )
+
+[ api-types に気象庁の天気予報 API の型定義を登録したのでアメダスを追加するプルリク募集！ ]( https://zenn.dev/solufa/articles/how-to-publish-api-types )
 [  ](  )
 [  ](  )
 [  ](  )

@@ -110,6 +110,8 @@
 
 ### フロントエンド一般
 
+[ シニアフロントエンド開発者みたいにChromeデベロッパーツールを使おう ]( https://qiita.com/baby-degu/items/6f367b61d245d5bc217b )
+
 [ Deep Dive Into Modern Web Development ]( https://fullstackopen.com/en/ )
 
 [ フロントエンドの情報収集について]( https://qiita.com/toshi-toma/items/cd3cfc40f1dcebfb88c9?utm_content=bufferd43e9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer )

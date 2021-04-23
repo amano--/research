@@ -130,6 +130,8 @@ eはエラー時の処理停止
 uは未定義変数の利用防止
 xは実行コマンドを標準エラー出力
 
+[ npm packageを開発する時に知っておくとよい事 ]( https://qiita.com/keitakn/items/248ca999e1c34b89288e )
+
 
 ### 関数型言語
 [  ]( https://www.fp-tower.com/courses/foundations )

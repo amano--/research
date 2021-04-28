@@ -13,6 +13,34 @@
 [  ](  )
 [  ](  )
 
+### 完全初心者向け
+
+MDN ウェブ入門(https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web)
+
+MDN JavaScript の第一歩
+(https://developer.mozilla.org/ja/docs/Learn/JavaScript/First_steps)
+
+Git をはじめからていねいに
+(https://github.com/Shinpeim/introduction-to-git)
+
+Web制作者のためのCSS設計の教科書 モダンWeb開発に欠かせない「修正しやすいCSS」の設計手法
+(https://amzn.to/3a5Ov57)
+
+初めてのJavaScript 第3版 ―ES2015以降の最新ウェブ開発(https://amzn.to/327Ydj4)
+全然初めてのJavaScriptじゃないけど良い本。
+
+日本一わかりやすいReact入門#1...Reactの基礎知識
+(https://www.youtube.com/playlist?list=PLX8Rsrpnn3IWKz6H5ZEPWBY8AKWwb9qq7)
+
+Vue.js&Nuxt.js超入門
+(https://amzn.to/3uLtvbs)
+
+Ruby on Rails チュートリアル(https://railstutorial.jp/)
+
+達人に学ぶDB設計(https://amzn.to/3ta7kLL)
+
+実践Firestore(https://amzn.to/3a1nXBK)
+
 ### Typescript 初級
 [ 仕事ですぐに使える TypeScript ]( https://future-architect.github.io/typescript-guide/typescript-guide.pdf )
 

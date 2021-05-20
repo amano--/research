@@ -8,10 +8,6 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
 
 ### 完全初心者向け
 
@@ -42,6 +38,7 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 実践Firestore(https://amzn.to/3a1nXBK)
 
 ### Typescript 初級
+
 [ 仕事ですぐに使える TypeScript ]( https://future-architect.github.io/typescript-guide/typescript-guide.pdf )
 
 [ TypeScript学習ロードマップ ]( https://qiita.com/irico/items/33744e15a4e0ca52d6bc )
@@ -56,18 +53,43 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 ### Typescript 上級
 
+#### Typescript 型システム
+
+[ TypeScriptの型入門 ]( https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a )
+
+[ こわくないTypeScript〜Mapped TypeもConditional Typeも使いこなせ〜  ]( https://blog.uhy.ooo/entry/2020-08-31/dont-fear-ts/ )
+
+[ TypeScriptの特殊な型同士の型演算結果まとめ ]( https://qiita.com/tkrkt/items/ecd7884ec1156017b00f )
+
+[ TypeScriptにおける型計算の基本 ]( https://qiita.com/recordare/items/58745ef66dd9162e4559 )
+
+
+[ TypeScript v4 まとめ ]( https://zenn.dev/smish0000/articles/8da1f46aa4465f )
+
+[ TypeScript の型定義ファイルの探索アルゴリズム ]( https://numb86-tech.hatenablog.com/entry/2020/07/15/153431 )
+
+[ TypeScript の型システム / Type system of the TypeScript ]( https://speakerdeck.com/saiya_moebius/type-system-of-the-typescript )
+
+[ TypeScriptのコンパイルパフォーマンスについてまとめられているページ ]( https://github.com/microsoft/TypeScript/wiki/Performance )
+　　typeとinterface、Base TypeとUnion Type、Project Reference、tsconfig.jsonの設定による最適化について
+
+
 ### Typescript Javascript 特殊記法
+
+[ JavaScriptのOptional ChainingとNullish Coalescing Operatorでnullやundefinedと戦う ](https://sbfl.net/blog/2020/03/24/javascript-null-aware/)
+
+[ Reactで役立つ分割代入とスプレッド演算子 ](https://masayuki031.com/reactjs-spread-operator/)
 
 [ TypeScriptの変数の末尾の"!"(エクスクラメーション/感嘆符)の意味 ]( https://qiita.com/zigenin/items/364264a6cf635b962542 )
 
 [ JavaScriptで!!（エクスクラメーションマーク2つ） ]( https://www.penpale.jp/blog/double_exclamation_mark.html )
 
-[JavaScriptのOptional ChainingとNullish Coalescing Operatorでnullやundefinedと戦う](https://sbfl.net/blog/2020/03/24/javascript-null-aware/)
 
 ### React 初級
 
 [ Reactのコンポーネント周りの用語を整理する ]( https://blog.ojisan.io/react-component-words )
 
+[ Reactで役立つ分割代入とスプレッド演算子 ](https://masayuki031.com/reactjs-spread-operator/)
 
 ### React 中級
 
@@ -83,7 +105,15 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 [  ](  )
 [  ](  )
   
-#### Hooks
+### React 上級
+
+[ 今からでも遅くない！誰も教えてくれなかった React とアクセシビリティーの世界 ]( https://zenn.dev/neet/articles/8b4d8d42fb2a5e )
+
+#### React Hooks
+
+- [React hooksを基礎から理解する (useState編)](https://qiita.com/seira/items/f063e262b1d57d7e78b4)
+
+- [useEffect完全ガイド](https://overreacted.io/ja/a-complete-guide-to-useeffect/)
 
 - [ useEffectフックのしくみ ]( https://qiita.com/ossan-engineer/items/740425a0df937a47e093 )
 
@@ -91,11 +121,12 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 [ useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計 ]( https://qiita.com/uhyo/items/cea1bd157453a85feebf)
 
-### React 上級
+- []()
+- []()
 
-[ 今からでも遅くない！誰も教えてくれなかった React とアクセシビリティーの世界 ]( https://zenn.dev/neet/articles/8b4d8d42fb2a5e )
 
 #### Concurrent Mode
+
 - [ Concurrent Mode時代のReact設計論 (1) Concurrent Modeにおける非同期処理 ]( https://qiita.com/uhyo/items/4a6315bfccf387407631 )
 
 - [ react-suspense ]( https://github.com/kentcdodds/react-suspense )
@@ -103,12 +134,26 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 [ 【LINE証券 FrontEnd】コンポーネントをカスタムフックで提供してみた ]( 【LINE証券 FrontEnd】コンポーネントをカスタムフックで提供してみた )
 
+### Next.js
+
+[ Next.js 9.5 リリース詳細を完全翻訳！　段階的な静的再生成（安定版）, リダイレクトやルーティング機能の強化, Webpack 5 のサポートほか ]( https://qiita.com/thesugar/items/73a169c4d23e4bd91554 )
+
+[ next-auth ]( https://github.com/nextauthjs/next-auth )
+
+[ Next.js Conf2020 ]( youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD )
+
+[ Next.jsに「できるだけ」依存しないReactアプリケーションの構成 ]( https://zenn.dev/panda_program/articles/nextjs-architecture )
+
 ### JavaScript 初級
 
 [ jsprimer 迷わないための入門書 ]( https://jsprimer.net/ )
 
 - 分割代入、スプレッド演算子
-  [ 4歳娘「パパ、懐かしいJavaScript書いてるね！」 ]( https://qiita.com/Yametaro/items/70e7878c5ea51788b643 )
+  
+  
+  - []()
+  
+  - [ 4歳娘「パパ、懐かしいJavaScript書いてるね！」 ]( https://qiita.com/Yametaro/items/70e7878c5ea51788b643 )
 
 [ JavaScriptのテストを通るように関数を実装するJavaScriptの練習問題集 ]( https://www.jschallenger.com/ )
 
@@ -122,7 +167,6 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 [ clean-code-javascript ]( https://github.com/ryanmcdermott/clean-code-javascript#solid )
 
-
 - 記事
 
 [ 2018年に見直した現代的なJavaScriptの記法を紹介するぜ ](https://ics.media/entry/17262/)
@@ -134,7 +178,6 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 [ 今週大幅にリニューアルされた Next.js のチュートリアルをどこよりも早く全編和訳しました ]( https://qiita.com/thesugar/items/01896c1faa8241e6b1bc )
 
 [ Next.jsにおけるSSG（静的サイト生成）とISRについて（自分の）限界まで丁寧に説明する ]( https://qiita.com/thesugar/items/47ec3d243d00ddd0b4ed )
-
 
 ### フロントエンド一般
 
@@ -162,6 +205,7 @@ xは実行コマンドを標準エラー出力
 
 
 ### 関数型言語
+
 [  ]( https://www.fp-tower.com/courses/foundations )
 
 [ リアクティブアーキテクチャ基礎講座 ]( https://speakerdeck.com/j5ik2o/riakuteihuakitekutiyaji-chu-jiang-zuo )

@@ -39,7 +39,7 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 ### Typescript 初級
 
-[ 仕事ですぐに使える TypeScript ]( https://future-architect.github.io/typescript-guide/typescript-guide.pdf )
+★★★ [ 仕事ですぐに使える TypeScript ]( https://future-architect.github.io/typescript-guide/typescript-guide.pdf )
 
 [ TypeScript学習ロードマップ ]( https://qiita.com/irico/items/33744e15a4e0ca52d6bc )
 
@@ -55,7 +55,7 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 #### Typescript 型システム
 
-[ TypeScriptの型入門 ]( https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a )
+★★★ [ TypeScriptの型入門 ]( https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a )
 
 [ こわくないTypeScript〜Mapped TypeもConditional Typeも使いこなせ〜  ]( https://blog.uhy.ooo/entry/2020-08-31/dont-fear-ts/ )
 
@@ -76,9 +76,9 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 ### Typescript Javascript 特殊記法
 
-[ JavaScriptのOptional ChainingとNullish Coalescing Operatorでnullやundefinedと戦う ](https://sbfl.net/blog/2020/03/24/javascript-null-aware/)
+★★★ [ Reactで役立つ分割代入とスプレッド演算子 ](https://masayuki031.com/reactjs-spread-operator/)
 
-[ Reactで役立つ分割代入とスプレッド演算子 ](https://masayuki031.com/reactjs-spread-operator/)
+★ [ JavaScriptのOptional ChainingとNullish Coalescing Operatorでnullやundefinedと戦う ](https://sbfl.net/blog/2020/03/24/javascript-null-aware/)
 
 [ TypeScriptの変数の末尾の"!"(エクスクラメーション/感嘆符)の意味 ]( https://qiita.com/zigenin/items/364264a6cf635b962542 )
 
@@ -111,23 +111,21 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 #### React Hooks
 
-- [React hooksを基礎から理解する (useState編)](https://qiita.com/seira/items/f063e262b1d57d7e78b4)
+★★★ [React hooksを基礎から理解する (useState編)](https://qiita.com/seira/items/f063e262b1d57d7e78b4)
 
-- [useEffect完全ガイド](https://overreacted.io/ja/a-complete-guide-to-useeffect/)
+[useEffect完全ガイド](https://overreacted.io/ja/a-complete-guide-to-useeffect/)
 
-- [ useEffectフックのしくみ ]( https://qiita.com/ossan-engineer/items/740425a0df937a47e093 )
+[ useEffectフックのしくみ ]( https://qiita.com/ossan-engineer/items/740425a0df937a47e093 )
 
-- [ Hooksをトップレベル以外で呼んではいけない理由をReactのソースコードから読み解く ]( https://qiita.com/akashixi/items/7cf0ef9940c2dc8ea24 )
+[ Hooksをトップレベル以外で呼んではいけない理由をReactのソースコードから読み解く ]( https://qiita.com/akashixi/items/7cf0ef9940c2dc8ea24 )
 
 [ useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計 ]( https://qiita.com/uhyo/items/cea1bd157453a85feebf)
 
 - []()
 - []()
+#### React Concurrent Mode
 
-
-#### Concurrent Mode
-
-- [ Concurrent Mode時代のReact設計論 (1) Concurrent Modeにおける非同期処理 ]( https://qiita.com/uhyo/items/4a6315bfccf387407631 )
+- ★★★ [ Concurrent Mode時代のReact設計論 (1) Concurrent Modeにおける非同期処理 ]( https://qiita.com/uhyo/items/4a6315bfccf387407631 )
 
 - [ react-suspense ]( https://github.com/kentcdodds/react-suspense )
   - Kent C. Dodds による Suspense 学習用 Workshop 用コード
@@ -136,17 +134,17 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 ### Next.js
 
-[ Next.js 9.5 リリース詳細を完全翻訳！　段階的な静的再生成（安定版）, リダイレクトやルーティング機能の強化, Webpack 5 のサポートほか ]( https://qiita.com/thesugar/items/73a169c4d23e4bd91554 )
+★★★ [ Next.js 9.5 リリース詳細を完全翻訳！　段階的な静的再生成（安定版）, リダイレクトやルーティング機能の強化, Webpack 5 のサポートほか ]( https://qiita.com/thesugar/items/73a169c4d23e4bd91554 )
 
-[ next-auth ]( https://github.com/nextauthjs/next-auth )
+★★ [ Next.jsにおけるSSG（静的サイト生成）とISRについて（自分の）限界まで丁寧に説明する ]( https://qiita.com/thesugar/items/47ec3d243d00ddd0b4ed )
 
-[ Next.js Conf2020 ]( youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD )
+[ Next.js に関する記事をよく書いている人の記事一覧 ](https://qiita.com/thesugar)
 
 [ Next.jsに「できるだけ」依存しないReactアプリケーションの構成 ]( https://zenn.dev/panda_program/articles/nextjs-architecture )
 
 ### JavaScript 初級
 
-[ jsprimer 迷わないための入門書 ]( https://jsprimer.net/ )
+★★★ [ jsprimer 迷わないための入門書 ]( https://jsprimer.net/ )
 
 - 分割代入、スプレッド演算子
   
@@ -159,9 +157,9 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 ### JavaScript 中級
 
-[ JavaScript初級者から中級者になろう ]( https://uhyohyo.net/javascript/ )
+★★★ [ JavaScript初級者から中級者になろう ]( https://uhyohyo.net/javascript/ )
 
-[ JavaScript Promiseの本 ]( https://azu.github.io/promises-book/ )
+★★★ [ JavaScript Promiseの本 ]( https://azu.github.io/promises-book/ )
 
 [ ECMAScriptとは何か？ ]( https://azu.github.io/slide-what-is-ecmascript/ )
 
@@ -169,15 +167,9 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 - 記事
 
-[ 2018年に見直した現代的なJavaScriptの記法を紹介するぜ ](https://ics.media/entry/17262/)
+★★ [ 2018年に見直した現代的なJavaScriptの記法を紹介するぜ ](https://ics.media/entry/17262/)
 
 ### JavaScript 上級
-
-### Next.js
-
-[ 今週大幅にリニューアルされた Next.js のチュートリアルをどこよりも早く全編和訳しました ]( https://qiita.com/thesugar/items/01896c1faa8241e6b1bc )
-
-[ Next.jsにおけるSSG（静的サイト生成）とISRについて（自分の）限界まで丁寧に説明する ]( https://qiita.com/thesugar/items/47ec3d243d00ddd0b4ed )
 
 ### フロントエンド一般
 

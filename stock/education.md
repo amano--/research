@@ -85,11 +85,21 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 [ JavaScriptで!!（エクスクラメーションマーク2つ） ]( https://www.penpale.jp/blog/double_exclamation_mark.html )
 
 
+### TypeScript + React 型周りの整理
+
+[ TypeScript で書く React コンポーネントを基礎から理解する ](https://qiita.com/sangotaro/items/3ea63110517a1b66745b)
+
+[【初心者】React × TypeScript 基本の型定義](https://zenn.dev/ogakuzuko/articles/react-typescript-for-beginner)
+
+[Reactの型、ちゃんと調べる](https://qiita.com/irico/items/629fe8f617ceb10e990f)
+  ReactNode 型について
+
 ### React 初級
 
 [ Reactのコンポーネント周りの用語を整理する ]( https://blog.ojisan.io/react-component-words )
 
 [ Reactで役立つ分割代入とスプレッド演算子 ](https://masayuki031.com/reactjs-spread-operator/)
+
 
 ### React 中級
 
@@ -100,6 +110,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 - [ react-typescript-cheatsheet ]( https://react-typescript-cheatsheet.netlify.app/ )
 
 [ TypeScriptの型を手に馴染ませるためにやっていること ]( https://blog.shibayu36.org/entry/2020/10/15/173000 )
+
+[ React：リンク集 ](https://qiita.com/TsJazz27Sumin/items/54686382b63ead305e8a)
 
 [  ](  )
 [  ](  )
@@ -112,6 +124,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 #### React Hooks
 
 ★★★ [React hooksを基礎から理解する (useState編)](https://qiita.com/seira/items/f063e262b1d57d7e78b4)
+
+[ React公式 - フックの導入 ](https://ja.reactjs.org/docs/hooks-intro.html)
 
 [useEffect完全ガイド](https://overreacted.io/ja/a-complete-guide-to-useeffect/)
 

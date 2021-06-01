@@ -107,7 +107,7 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 [ React Fiberアーキテクチャについて ]( https://postd.cc/react-fiber-architecture/ )
 
-- [ react-typescript-cheatsheet ]( https://react-typescript-cheatsheet.netlify.app/ )
+[ react-typescript-cheatsheet ]( https://react-typescript-cheatsheet.netlify.app/ )
 
 [ TypeScriptの型を手に馴染ませるためにやっていること ]( https://blog.shibayu36.org/entry/2020/10/15/173000 )
 
@@ -154,7 +154,13 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 [ Next.js に関する記事をよく書いている人の記事一覧 ](https://qiita.com/thesugar)
 
+[ Next.jsのドキュメントを翻訳する非公式プロジェクト ]( https://github.com/Nextjs-ja-translation/Nextjs-ja-translation-docs )
+
 [ Next.jsに「できるだけ」依存しないReactアプリケーションの構成 ]( https://zenn.dev/panda_program/articles/nextjs-architecture )
+
+#### testing-library
+
+[ testing-library 作者による教育資料 ](https://github.com/kentcdodds/react-testing-library-course.git)
 
 ### JavaScript 初級
 

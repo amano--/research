@@ -73,7 +73,6 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 [ TypeScriptのコンパイルパフォーマンスについてまとめられているページ ]( https://github.com/microsoft/TypeScript/wiki/Performance )
 　　typeとinterface、Base TypeとUnion Type、Project Reference、tsconfig.jsonの設定による最適化について
 
-
 ### Typescript Javascript 特殊記法
 
 ★★★ [ Reactで役立つ分割代入とスプレッド演算子 ](https://masayuki031.com/reactjs-spread-operator/)
@@ -83,7 +82,6 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 [ TypeScriptの変数の末尾の"!"(エクスクラメーション/感嘆符)の意味 ]( https://qiita.com/zigenin/items/364264a6cf635b962542 )
 
 [ JavaScriptで!!（エクスクラメーションマーク2つ） ]( https://www.penpale.jp/blog/double_exclamation_mark.html )
-
 
 ### TypeScript + React 型周りの整理
 
@@ -98,26 +96,24 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 [ Reactのコンポーネント周りの用語を整理する ]( https://blog.ojisan.io/react-component-words )
 
-[ Reactで役立つ分割代入とスプレッド演算子 ](https://masayuki031.com/reactjs-spread-operator/)
-
-
+[ React：リンク集 ](https://qiita.com/TsJazz27Sumin/items/54686382b63ead305e8a)
+  このリンク集をたどると色々と勉強になる。
 ### React 中級
 
-- [ Reactのレンダリングに関する完全ガイド ]( https://qiita.com/hellokenta/items/6b795501a0a8921bb6b5 )
-
-[ React Fiberアーキテクチャについて ]( https://postd.cc/react-fiber-architecture/ )
+[ Reactのレンダリングに関する完全ガイド ]( https://qiita.com/hellokenta/items/6b795501a0a8921bb6b5 )
 
 [ react-typescript-cheatsheet ]( https://react-typescript-cheatsheet.netlify.app/ )
 
 [ TypeScriptの型を手に馴染ませるためにやっていること ]( https://blog.shibayu36.org/entry/2020/10/15/173000 )
 
-[ React：リンク集 ](https://qiita.com/TsJazz27Sumin/items/54686382b63ead305e8a)
 
 [  ](  )
 [  ](  )
 [  ](  )
   
 ### React 上級
+
+[ React Fiberアーキテクチャについて ]( https://postd.cc/react-fiber-architecture/ )
 
 [ 今からでも遅くない！誰も教えてくれなかった React とアクセシビリティーの世界 ]( https://zenn.dev/neet/articles/8b4d8d42fb2a5e )
 
@@ -135,16 +131,16 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 [ useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計 ]( https://qiita.com/uhyo/items/cea1bd157453a85feebf)
 
+[ 【LINE証券 FrontEnd】コンポーネントをカスタムフックで提供してみた ]( 【LINE証券 FrontEnd】コンポーネントをカスタムフックで提供してみた )
+
 - []()
 - []()
 #### React Concurrent Mode
 
-- ★★★ [ Concurrent Mode時代のReact設計論 (1) Concurrent Modeにおける非同期処理 ]( https://qiita.com/uhyo/items/4a6315bfccf387407631 )
+★★★ [ Concurrent Mode時代のReact設計論 (1) Concurrent Modeにおける非同期処理 ]( https://qiita.com/uhyo/items/4a6315bfccf387407631 )
 
-- [ react-suspense ]( https://github.com/kentcdodds/react-suspense )
-  - Kent C. Dodds による Suspense 学習用 Workshop 用コード
-
-[ 【LINE証券 FrontEnd】コンポーネントをカスタムフックで提供してみた ]( 【LINE証券 FrontEnd】コンポーネントをカスタムフックで提供してみた )
+[ react-suspense ]( https://github.com/kentcdodds/react-suspense )
+  Kent C. Dodds による Suspense 学習用 Workshop 用コード
 
 ### Next.js
 
@@ -166,12 +162,7 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 ★★★ [ jsprimer 迷わないための入門書 ]( https://jsprimer.net/ )
 
-- 分割代入、スプレッド演算子
-  
-  
-  - []()
-  
-  - [ 4歳娘「パパ、懐かしいJavaScript書いてるね！」 ]( https://qiita.com/Yametaro/items/70e7878c5ea51788b643 )
+[ 4歳娘「パパ、懐かしいJavaScript書いてるね！」 ]( https://qiita.com/Yametaro/items/70e7878c5ea51788b643 )
 
 [ JavaScriptのテストを通るように関数を実装するJavaScriptの練習問題集 ]( https://www.jschallenger.com/ )
 
@@ -181,16 +172,14 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 ★★★ [ JavaScript Promiseの本 ]( https://azu.github.io/promises-book/ )
 
+★★ [ 2018年に見直した現代的なJavaScriptの記法を紹介するぜ ](https://ics.media/entry/17262/)
+
 [ ECMAScriptとは何か？ ]( https://azu.github.io/slide-what-is-ecmascript/ )
 
 [ clean-code-javascript ]( https://github.com/ryanmcdermott/clean-code-javascript#solid )
 
-- 記事
-
-★★ [ 2018年に見直した現代的なJavaScriptの記法を紹介するぜ ](https://ics.media/entry/17262/)
 
 ### JavaScript 上級
-
 ### フロントエンド一般
 
 [ シニアフロントエンド開発者みたいにChromeデベロッパーツールを使おう ]( https://qiita.com/baby-degu/items/6f367b61d245d5bc217b )
@@ -198,24 +187,13 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 [ Deep Dive Into Modern Web Development ]( https://fullstackopen.com/en/ )
 
 [ フロントエンドの情報収集について]( https://qiita.com/toshi-toma/items/cd3cfc40f1dcebfb88c9?utm_content=bufferd43e9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer )
-
 ### 開発ツール
 
 [ Gitハンズオン研修 / Git Hands-on ]( https://speakerdeck.com/brainpadpr/git-hands-on )
 
 [ 初心者向け、「上手い」シェルスクリプトの書き方メモ ]( https://qiita.com/m-yamashita/items/889c116b92dc0bf4ea7d )
 
-#! /bin/bash
-set -eux
-
-と書くようにしてます。
-eはエラー時の処理停止
-uは未定義変数の利用防止
-xは実行コマンドを標準エラー出力
-
 [ npm packageを開発する時に知っておくとよい事 ]( https://qiita.com/keitakn/items/248ca999e1c34b89288e )
-
-
 ### 関数型言語
 
 [  ]( https://www.fp-tower.com/courses/foundations )

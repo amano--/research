@@ -180,9 +180,13 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 
 ### JavaScript 上級
-### フロントエンド一般
+
+### Chromeデベロッパーツール
 
 [ シニアフロントエンド開発者みたいにChromeデベロッパーツールを使おう ]( https://qiita.com/baby-degu/items/6f367b61d245d5bc217b )
+
+[ Web開発でよく使う、特に使えるChromeデベロッパー・ツールの機能](https://www.buildinsider.net/web/chromedevtools/01)
+### フロントエンド一般
 
 [ Deep Dive Into Modern Web Development ]( https://fullstackopen.com/en/ )
 

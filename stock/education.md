@@ -117,6 +117,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 [ 今からでも遅くない！誰も教えてくれなかった React とアクセシビリティーの世界 ]( https://zenn.dev/neet/articles/8b4d8d42fb2a5e )
 
+[ React18アップデート内容の解説 ](https://www.youtube.com/watch?v=bpVRWrrfM1M)
+
 #### React Hooks
 
 ★★★ [React hooksを基礎から理解する (useState編)](https://qiita.com/seira/items/f063e262b1d57d7e78b4)
@@ -180,6 +182,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 
 ### JavaScript 上級
+
+[Deep JavaScrip](https://exploringjs.com/deep-js/toc.html)
 
 ### Chromeデベロッパーツール
 

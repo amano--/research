@@ -11,6 +11,8 @@
 
 ### 完全初心者向け
 
+[ AWS無料勉強資料集 ](https://www.jaws-ug-kanazawa-68times.com/)
+
 MDN ウェブ入門(https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web)
 
 MDN JavaScript の第一歩

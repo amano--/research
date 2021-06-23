@@ -231,6 +231,12 @@ https://codepen.io/tonkotsuboy/pen/qBbpYzj
 
 [ webpack@5の主な変更点まとめ ]( https://blog.hiroppy.me/entry/webpack5 )
 
+### Template プロジェクト
+
+[ NextSSS is a Next.js starter template especially for static site including full setup for TypeScript, Tailwind CSS, Google Analytics, Next SEO, active link component, etc.](https://github.com/ixkaito/nextsss)
+
+Next.js で静的サイトを作ることも多くなってきたので、毎回 Google Analytics、OGP、TypeScript、Tailwind CSS、アクティブリンクなどを設定するの面倒くさいのでテンプレートを作っておきました。
+
 ### 非同期
 
 [ Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript ]( https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/ )

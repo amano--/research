@@ -11,6 +11,8 @@
 
 ### 完全初心者向け
 
+[ プログラミング初学者のための「即戦力ノウハウ」（4 万字） ]( https://qiita.com/yokarikeri/items/a0163bbb5ec0dfa85e07 )
+
 [ AWS無料勉強資料集 ](https://www.jaws-ug-kanazawa-68times.com/)
 
 MDN ウェブ入門(https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web)
@@ -194,6 +196,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 [ Web開発でよく使う、特に使えるChromeデベロッパー・ツールの機能](https://www.buildinsider.net/web/chromedevtools/01)
 ### フロントエンド一般
 
+[Functional UI Architecture 研究ラジオ](https://www.youtube.com/watch?v=sNSKUqMzsZo&list=PLn-K2NcVhBJD7n-JXDhIloUBA15Bhzcjh)
+
 [ Deep Dive Into Modern Web Development ]( https://fullstackopen.com/en/ )
 
 [ フロントエンドの情報収集について]( https://qiita.com/toshi-toma/items/cd3cfc40f1dcebfb88c9?utm_content=bufferd43e9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer )
@@ -211,6 +215,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 [ リアクティブアーキテクチャ基礎講座 ]( https://speakerdeck.com/j5ik2o/riakuteihuakitekutiyaji-chu-jiang-zuo )
 
 [ cats-infographic ]( https://github.com/tpolecat/cats-infographic )
+
+[ 世界一やさしい圏論勉強会 ](https://www.youtube.com/watch?v=PCU8QWXykCc&list=PLn-K2NcVhBJCquGDoRPsGPH_yy7ZRM5xJ)
 
 ### Web一般
 

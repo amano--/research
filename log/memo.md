@@ -1,3 +1,7 @@
+Q: union string型 の 配列 から ajv valid な json schema 作るときに型の補完が効かなくて辛いのですがどうしたらいいですか？
+
+A: union type をコピペして | を , に置換するのぢゃ
+
 1. JSON Schema をツール (stoplight 等) で設定し、GodeGen 系ツールで、TS,Java 等必要なコードを自動生成する。
 
    ※ 未検証

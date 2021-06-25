@@ -111,6 +111,8 @@
 
 #### デザインシステム関係
 
+[React でデザインシステムを正しく実装する - コンポーネントカタログを超えて](https://www.wantedly.com/companies/wantedly/post_articles/302873)
+
 [ Sociomedia ヒューマンインターフェース ガイドライン ](https://www.sociomedia.co.jp/category/shig)
 
 [ Francfrancデザインシステムとは ]( https://francfranc.io/design-system-guidelines/design-system/ )

@@ -220,6 +220,10 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 ### Web一般
 
+[WCAG 2.0 解説書](https://waic.jp/docs/UNDERSTANDING-WCAG20/Overview.html)
+
+この文書、「WCAG 2.0 解説書」は、Web Content Accessibility Guidelines (WCAG) 2.0 (日本語訳) [WCAG20] を理解して実践するために不可欠な案内書である。WCAG 2.0 の関連文書群の中の一つだが、この文書のコンテンツはガイダンスを提供する参考文書であり、WCAG 2.0 に適合するための要件を定める規定文書ではない。WCAG、関連技術文書、教育用素材へのイントロダクションは、Web Content Accessibility Guidelines (WCAG) Overviewを参照のこと。
+
 [ フルスタックエンジニアになるためのモダンな8つのプロジェクト ]( https://qiita.com/kanye__east/items/77a9746e9b98abbb97e6 )
 
 - REST

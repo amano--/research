@@ -1,3 +1,8 @@
+#### 参考
+
+[モナコインを使った Qiitaみたいなシステム ](https://github.com/Raiu1210/omaemona_front)
+変態物理 ☆不純異性交友P☆ https://twitter.com/Mr_1484
+
 #### モデリングツール
 
 [ Stoplight Studio ]( https://stoplight.io/studio/ )

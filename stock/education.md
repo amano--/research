@@ -45,6 +45,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 ★★★ [ 仕事ですぐに使える TypeScript ]( https://future-architect.github.io/typescript-guide/typescript-guide.pdf )
 
+★★★ [サバイバルTypeScript 〜実務で使うなら最低限ここだけはおさえておきたいTypeScript入門〜](https://book.yyts.org/)
+
 [ TypeScript学習ロードマップ ]( https://qiita.com/irico/items/33744e15a4e0ca52d6bc )
 
 ### Typescript 中級
@@ -171,6 +173,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 [ 4歳娘「パパ、懐かしいJavaScript書いてるね！」 ]( https://qiita.com/Yametaro/items/70e7878c5ea51788b643 )
 
 [ JavaScriptのテストを通るように関数を実装するJavaScriptの練習問題集 ]( https://www.jschallenger.com/ )
+
+[JavaScript: 通常の関数とアロー関数の違いは「書き方だけ」ではない。異なる性質が10個ほどある。](https://qiita.com/suin/items/a44825d253d023e31e4d)
 
 ### JavaScript 中級
 

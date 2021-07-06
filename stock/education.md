@@ -63,6 +63,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 ★★★ [ TypeScriptの型入門 ]( https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a )
 
+[TypeScript 型の課題集](https://github.com/type-challenges/type-challenges/blob/master/README.ja.md)
+
 [ こわくないTypeScript〜Mapped TypeもConditional Typeも使いこなせ〜  ]( https://blog.uhy.ooo/entry/2020-08-31/dont-fear-ts/ )
 
 [ TypeScriptの特殊な型同士の型演算結果まとめ ]( https://qiita.com/tkrkt/items/ecd7884ec1156017b00f )

@@ -36,7 +36,6 @@ git clone
 git clone 
 git clone 
 git clone 
-git clone 
 
 
 
@@ -47,7 +46,11 @@ git clone
 #### 
 #### 
 #### 
-#### 
+#### typescript 
+
+git clone https://github.com/basarat/byots.git
+
+git clone https://github.com/nonara/ts-expose-internals.git
 
 #### Component catalog 
 

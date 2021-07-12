@@ -39,6 +39,10 @@
 
 [ DACI： 意思決定フレームワーク ]( https://www.atlassian.com/ja/team-playbook/plays/daci )
 
+### モブプログラミング
+
+[ 今さら聞けないモブプログラミング ](https://uit-inside.linecorp.com/episode/91)
+
 ### ツール
 
 [ mural ホワイトボードツール ]( https://app.mural.co/t/naka39379/m/naka39379/1592891199157/cff3e3569841323b0e7f5e3507cd68246d98bb56 )

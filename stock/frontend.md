@@ -152,6 +152,10 @@ https://codepen.io/tonkotsuboy/pen/qBbpYzj
 
   It supports a subset of SQL, including SELECT (with conditions and joins), INSERT, UPDATE and DELETE statements.
 
+### その他ライブラリ
+
+[react-dropzone](https://react-dropzone.js.org/)
+Simple React hook to create a HTML5-compliant drag'n'drop zone for files.
 
 ### Lint 系
 

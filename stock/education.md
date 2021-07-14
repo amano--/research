@@ -7,7 +7,6 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
 
 ### 完全初心者向け
 
@@ -31,6 +30,8 @@ Web制作者のためのCSS設計の教科書 モダンWeb開発に欠かせな�
 
 日本一わかりやすいReact入門#1...Reactの基礎知識
 (https://www.youtube.com/playlist?list=PLX8Rsrpnn3IWKz6H5ZEPWBY8AKWwb9qq7)
+
+[ オブジェクト指向と20年戦ってわかったこと ]( https://qiita.com/shibukawa/items/2698b980933367ad93b4 )
 
 Vue.js&Nuxt.js超入門
 (https://amzn.to/3uLtvbs)

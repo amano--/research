@@ -3,6 +3,10 @@
 [モナコインを使った Qiitaみたいなシステム ](https://github.com/Raiu1210/omaemona_front)
 変態物理 ☆不純異性交友P☆ https://twitter.com/Mr_1484
 
+[Open Collective](https://opencollective.com/how-it-works)
+
+[ Lerna + monorepo +GitHub Actions Release Flow ](https://github.com/azu/lerna-monorepo-github-actions-release)
+
 #### モデリングツール
 
 [ Stoplight Studio ]( https://stoplight.io/studio/ )

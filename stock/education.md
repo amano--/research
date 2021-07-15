@@ -208,6 +208,17 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 [ Deep Dive Into Modern Web Development ]( https://fullstackopen.com/en/ )
 
 [ フロントエンドの情報収集について]( https://qiita.com/toshi-toma/items/cd3cfc40f1dcebfb88c9?utm_content=bufferd43e9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer )
+
+### アクセシビリティ
+[WCAG 2.0 解説書](https://waic.jp/docs/UNDERSTANDING-WCAG20/Overview.html)
+
+この文書、「WCAG 2.0 解説書」は、Web Content Accessibility Guidelines (WCAG) 2.0 (日本語訳) [WCAG20] を理解して実践するために不可欠な案内書である。WCAG 2.0 の関連文書群の中の一つだが、この文書のコンテンツはガイダンスを提供する参考文書であり、WCAG 2.0 に適合するための要件を定める規定文書ではない。WCAG、関連技術文書、教育用素材へのイントロダクションは、Web Content Accessibility Guidelines (WCAG) Overviewを参照のこと。
+
+[Access Guide](https://accessguide.io/)
+WCAG 2.1の解説サイト。どのように実装するか、どのようにテストするか、実際の例について
+
+[a11y を強化する ReactComponent の型推論](https://zenn.dev/takepepe/articles/strict-typed-aria-component)
+
 ### 開発ツール
 
 [ Gitハンズオン研修 / Git Hands-on ]( https://speakerdeck.com/brainpadpr/git-hands-on )

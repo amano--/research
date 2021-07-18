@@ -35,6 +35,10 @@
 
 [ モブプログラミングが当たり前になるまで 〜導入からフルリモート化までの課題と解決〜 ]( https://techblog.yahoo.co.jp/entry/2020052730002064/ )
 
+### UIチームマネジメント
+
+[React Component 分業の覚書](https://zenn.dev/takepepe/articles/division-labor-of-react)
+
 ### チームマネジメント
 
 [ DACI： 意思決定フレームワーク ]( https://www.atlassian.com/ja/team-playbook/plays/daci )

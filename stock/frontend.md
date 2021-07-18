@@ -92,13 +92,6 @@
 
 [ WindiCSS：次世代 Tailwind CSS コンパイラ ]( https://zenn.dev/hannoeru/articles/ce1a88a08b8dc4 )
 
-
-#### プロジェクト構造
-
-[ フロントエンドと素朴なコードベース ]( https://zoshigayan.net/soboku-solution/ )
-  
-  src 以下のディレクトリ構造に関して知見が書かれている
-
 #### tailwindcss
 
 [ tailwindcss ]( https://tailwindcss.com/resources/ )
@@ -108,6 +101,19 @@
 [ Tailwind CSS入門 - フロントエンドで素晴らしい開発体験を得るために ]( https://panda-program.com/posts/recommend-developers-use-tailwind-css )
 
 [ 翻訳：CSSユーティリティクラスと「関心の分離」（いかにしてユーティリティファーストにたどり着いたか） ](https://yuheiy.hatenablog.com/entry/2020/05/25/021342)
+
+### CSS-in-JS
+
+[vanilla-extract](https://jser.info/2021/05/31/jest-27-vanilla-extract-1.0.0-learn-css/)
+
+[型安全な CSS Modules？「vanilla-extract」](https://blog.gaji.jp/2021/06/03/7457/)
+
+直近で様々なCSS in JSが登場しているので、次の記事がCSSへのアプローチをグループ分けしてまとめられています。
+
+[A Thorough Analysis of CSS-in-JS | CSS-Tricks](https://css-tricks.com/a-thorough-analysis-of-css-in-js/)
+
+[Libraries to look out for · Issue #8 · andreipfeiffer/css-in-js
+](https://github.com/andreipfeiffer/css-in-js/issues/8)
 
 #### デザインシステム関係
 
@@ -120,6 +126,17 @@
 [ SmartHR Design System ]( https://www.smarthr.design/12597874e/p/87ebf8-smarthr-design-system )
 
 [ Shopify の Polaris というデザインシステム ](https://polaris.shopify.com/design/design#navigation)
+
+[ Adele ](https://adele.uxpin.com/)
+  The repository of publicly available design systems and pattern libraries
+
+#### プロジェクト構造
+
+[ フロントエンドと素朴なコードベース ]( https://zoshigayan.net/soboku-solution/ )
+  
+  src 以下のディレクトリ構造に関して知見が書かれている
+
+
 #### GraphQL
 
 [ GraphQLデザインチュートリアル(前編) ]( https://qiita.com/hitochan777/items/04c16ca770f7b3a84af5 )

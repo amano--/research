@@ -92,6 +92,8 @@
 
 [ WindiCSS：次世代 Tailwind CSS コンパイラ ]( https://zenn.dev/hannoeru/articles/ce1a88a08b8dc4 )
 
+[ Learn CSS ](https://web.dev/learn/css/)
+
 #### tailwindcss
 
 [ tailwindcss ]( https://tailwindcss.com/resources/ )

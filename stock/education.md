@@ -102,6 +102,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 ### React 初級
 
+[Reactを学ぶときに役立つ情報・本など](https://zenn.dev/sakito/scraps/c2ea4d5ba0b222)
+
 [ Reactのコンポーネント周りの用語を整理する ]( https://blog.ojisan.io/react-component-words )
 
 [ React：リンク集 ](https://qiita.com/TsJazz27Sumin/items/54686382b63ead305e8a)

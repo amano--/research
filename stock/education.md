@@ -42,6 +42,9 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 実践Firestore(https://amzn.to/3a1nXBK)
 
+[ Cheatography.com ](https://cheatography.com/) 
+  - HTML、CSS、JavaScript、Reactなどのチートシート集。
+
 ### Typescript 初級
 
 ★★★ [ 仕事ですぐに使える TypeScript ]( https://future-architect.github.io/typescript-guide/typescript-guide.pdf )

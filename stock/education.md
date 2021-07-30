@@ -6,9 +6,10 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
 
 ### 完全初心者向け
+
+[ 各社の開発研修資料2021年度まとめのまとめ ]( https://zenn.dev/sakito/scraps/c9553358e998da )
 
 [ プログラミング初学者のための「即戦力ノウハウ」（4 万字） ]( https://qiita.com/yokarikeri/items/a0163bbb5ec0dfa85e07 )
 
@@ -112,6 +113,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 [ React：リンク集 ](https://qiita.com/TsJazz27Sumin/items/54686382b63ead305e8a)
   このリンク集をたどると色々と勉強になる。
 ### React 中級
+
+[ 【TypeScript】.tsx内でGeneric関数を定義する場合の注意点 ](https://marsquai.com/745ca65e-e38b-4a8e-8d59-55421be50f7e/1f67fdab-8e00-4ae1-a1b9-077d5a30a5d6/daf351d1-ce44-4bbe-9631-377326e2e43e/)
 
 [ Reactのレンダリングに関する完全ガイド ]( https://qiita.com/hellokenta/items/6b795501a0a8921bb6b5 )
 

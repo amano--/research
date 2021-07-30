@@ -43,6 +43,8 @@
 
 [ DACI： 意思決定フレームワーク ]( https://www.atlassian.com/ja/team-playbook/plays/daci )
 
+[界隈がざわつくほど超進化したPMBOK第7版の解説【プロジェクトマネジメント】](https://note.com/miz_kushida/n/n103a7da460c5)
+
 ### モブプログラミング
 
 [ 今さら聞けないモブプログラミング ](https://uit-inside.linecorp.com/episode/91)

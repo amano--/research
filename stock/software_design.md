@@ -29,11 +29,11 @@
  - オープンデータから 個人のポートフォリオを自動生成します
 
 ### Event Storming CQRS
+[ CQRS Documents by Greg Young - 日本語訳 ]( http://www.minato.tv/cqrs/cqrs_documents_jp.pdf )
+
 [ Awesome EventStorming ]( https://github.com/mariuszgil/awesome-eventstorming )
 
 [ EventStorming SoftwareDesign as a Cooperative Game ]( https://speakerdeck.com/98lerr/eventstorming-softwaredesign-as-a-cooperative-game )
-
-[ CQRS Documents by Greg Young - 日本語訳 ]( http://www.minato.tv/cqrs/cqrs_documents_jp.pdf )
 
 [ EventStorming; Core concepts, glossary and legend ]( https://baasie.com/2020/07/16/eventstorming-core-concepts-glossary-and-legend/ )
 
@@ -112,6 +112,10 @@ git clone https://github.com/hvpaiva/clean-architecture-nestjs.git
 ### 
 
 [ クラウド設計パターン ]( https://docs.microsoft.com/ja-jp/azure/architecture/patterns/ )
+
+### test
+
+[ 受け入れテストを日本語で書ける Jest 拡張 "Jest-gauge" を公開しました ](https://zenn.dev/tnzk/articles/27b72f6b7ce982)
 
 ### デザインパターン 等
 

@@ -149,6 +149,8 @@
 
 #### ツール
 
+[React でアイコンを使うなら React Icons がおすすめ](https://zenn.dev/taichifukumoto/articles/how-to-use-react-icons)
+
 [ restylecss ]( http://www.restylecss.com/ )
 
 [ cxa-template-react ]( https://github.com/kotofurumiya/cxa-template-react )

@@ -70,6 +70,8 @@
 
 [ Next.jsに「できるだけ」依存しないReactアプリケーションの構成 ]( https://zenn.dev/panda_program/articles/nextjs-architecture )
 
+[ Serverless Next.js Component のISR実装を読み解く ](https://zenn.dev/laiso/articles/8c619c38bd7b7b)
+
 ### コンポーネントライブラリ
 
 - a11y アニメーション等

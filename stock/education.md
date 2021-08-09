@@ -135,6 +135,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 [ React18アップデート内容の解説 ](https://www.youtube.com/watch?v=bpVRWrrfM1M)
 
+[我々向けの Algebraic Effects 入門](https://overreacted.io/ja/algebraic-effects-for-the-rest-of-us/)
+
 #### React Hooks
 
 ★★★ [React hooksを基礎から理解する (useState編)](https://qiita.com/seira/items/f063e262b1d57d7e78b4)

@@ -1,3 +1,72 @@
+function compose<T0>(): (x: T0) => T0;
+function compose<T0, T1>(f0: (x: T0) => T1): (x: T0) => T1;
+function compose<T0, T1, T2>(f0: (x: T0) => T1, f1: (x: T1) => T2): (x: T0) => T2;
+function compose<T0, T1, T2, T3>(
+    f0: (x: T0) => T1,
+    f1: (x: T1) => T2,
+    f2: (x: T2) => T3,
+): (x: T0) => T3;
+function compose<T0, T1, T2, T3, T4>(
+    f0: (x: T0) => T1,
+    f1: (x: T1) => T2,
+    f2: (x: T2) => T3,
+    f3: (x: T3) => T4,
+): (x: T0) => T4;
+function compose<T0, T1, T2, T3, T4, T5>(
+    f0: (x: T0) => T1,
+    f1: (x: T1) => T2,
+    f2: (x: T2) => T3,
+    f3: (x: T3) => T4,
+    f4: (x: T4) => T5,
+): (x: T0) => T5;
+function compose<T0, T1, T2, T3, T4, T5, T6>(
+    f0: (x: T0) => T1,
+    f1: (x: T1) => T2,
+    f2: (x: T2) => T3,
+    f3: (x: T3) => T4,
+    f4: (x: T4) => T5,
+    f5: (x: T5) => T6,
+): (x: T0) => T6;
+function compose<T0, T1, T2, T3, T4, T5, T6, T7>(
+    f0: (x: T0) => T1,
+    f1: (x: T1) => T2,
+    f2: (x: T2) => T3,
+    f3: (x: T3) => T4,
+    f4: (x: T4) => T5,
+    f5: (x: T5) => T6,
+    f6: (x: T6) => T7,
+): (x: T0) => T7;
+function compose<T0, T1, T2, T3, T4, T5, T6, T7, T8>(
+    f0: (x: T0) => T1,
+    f1: (x: T1) => T2,
+    f2: (x: T2) => T3,
+    f3: (x: T3) => T4,
+    f4: (x: T4) => T5,
+    f5: (x: T5) => T6,
+    f6: (x: T6) => T7,
+    f7: (x: T7) => T8,
+): (x: T0) => T8;
+function compose<T0, T1, T2, T3, T4, T5, T6, T7, T8, T9>(
+    f0: (x: T0) => T1,
+    f1: (x: T1) => T2,
+    f2: (x: T2) => T3,
+    f3: (x: T3) => T4,
+    f4: (x: T4) => T5,
+    f5: (x: T5) => T6,
+    f6: (x: T6) => T7,
+    f7: (x: T7) => T8,
+    f8: (x: T8) => T9,
+): (x: T0) => T9;
+function compose(...fs: ((x: any) => any)[]): (x: any) => any {
+    return (x: any) => {
+        let val = x;
+        for (const f of fs) {
+            val = f(val);
+        }
+        return val;
+    };
+}
+
 Q: union string型 の 配列 から ajv valid な json schema 作るときに型の補完が効かなくて辛いのですがどうしたらいいですか？
 
 A: union type をコピペして | を , に置換するのぢゃ

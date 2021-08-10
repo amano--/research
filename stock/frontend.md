@@ -134,6 +134,16 @@
 [ Adele ](https://adele.uxpin.com/)
   The repository of publicly available design systems and pattern libraries
 
+### Form validation 関連
+
+[create-validator-ts](https://github.com/azu/create-validator-ts)
+[react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
+
+TypeScriptの型定義書くとフォームができて、設定データを読み書きして、使うときもちゃんと型とデフォルト値マージできて便利だ。
+
+[Reactで使えるバリデーションライブラリを紹介！](https://bagelee.com/programming/react/validation-library/)
+
+
 #### プロジェクト構造
 
 [ フロントエンドと素朴なコードベース ]( https://zoshigayan.net/soboku-solution/ )

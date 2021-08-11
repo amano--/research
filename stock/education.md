@@ -184,6 +184,9 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 ★★★ [ jsprimer 迷わないための入門書 ]( https://jsprimer.net/ )
 
+[ MDN JavaScript ](https://developer.mozilla.org/ja/docs/Web/JavaScript)
+
+
 [ 4歳娘「パパ、懐かしいJavaScript書いてるね！」 ]( https://qiita.com/Yametaro/items/70e7878c5ea51788b643 )
 
 [ JavaScriptのテストを通るように関数を実装するJavaScriptの練習問題集 ]( https://www.jschallenger.com/ )

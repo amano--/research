@@ -32,6 +32,7 @@ and also some developers and some managers dislike the word "architecture".
 
 [ ソフトウェアアーキテクトが知るべき97のこと ]( https://xn--97-273ae6a4irb6e2h2ia0cn0g4a2txf4ah5wo4af612j.com/ )
 
+[Journey to Event Driven – Part 1: Why Event-First Programming Changes Everything](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/)
 
 
 ### 分散システム MSA

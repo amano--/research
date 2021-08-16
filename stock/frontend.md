@@ -206,6 +206,8 @@ Simple React hook to create a HTML5-compliant drag'n'drop zone for files.
 
 ### Test 
 
+[intermock - Mocking library to create mock objects and JSON for TypeScript interfaces via Faker.](https://github.com/google/intermock)
+
 [ Jest で new Date() をモック化する ]( https://qiita.com/clown0082/items/bbe42001c31be5a87c04 )
 
 [ ponicode AIが単体テストを生成 ]( ponicode.com )

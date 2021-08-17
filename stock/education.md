@@ -64,6 +64,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 ### Typescript 上級
 
+[TypeScriptで学ぶ代数的データ型](https://zenn.dev/eagle/articles/ts-coproduct-introduction)
+
 #### Typescript 型システム
 
 ★★★ [ TypeScriptの型入門 ]( https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a )

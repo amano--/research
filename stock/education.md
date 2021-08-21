@@ -211,6 +211,12 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 [Deep JavaScrip](https://exploringjs.com/deep-js/toc.html)
 
+### test
+
+[xUnit Test Patternsから学ぶ12個のユニットテストの原則](https://qiita.com/hgsgtk/items/a3186a250d36d3b224d9)
+
+[ モッククラスを使うべきか否か ](https://irof.hateblo.jp/entry/2019/07/17/233048)
+
 ### Chromeデベロッパーツール
 
 [ シニアフロントエンド開発者みたいにChromeデベロッパーツールを使おう ]( https://qiita.com/baby-degu/items/6f367b61d245d5bc217b )
@@ -299,4 +305,3 @@ WCAG 2.1の解説サイト。どのように実装するか、どのようにテ
   - [ etym ] (https://www.etymonline.com/)
 
 - 類語
-  - [ thesaurus ]( https://www.thesaurus.com/ )

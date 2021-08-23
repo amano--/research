@@ -209,6 +209,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 ### JavaScript 上級
 
+[今からでも追いつける！　JavaScriptの「標準ライブラリ」を学ぶ](https://qiita.com/uhyo/items/acd645744fa61c805097)
+
 [Deep JavaScrip](https://exploringjs.com/deep-js/toc.html)
 
 ### test

@@ -220,6 +220,7 @@ Simple React hook to create a HTML5-compliant drag'n'drop zone for files.
 
 [ UI コンポーネントをテストする ]( https://www.learnstorybook.com/intro-to-storybook/react/ja/test/ )
 
+[ Testing with Next.js ](https://zenn.dev/takepepe/articles/testing-with-nextjs)
 
 
 ### UI Testing

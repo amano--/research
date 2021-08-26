@@ -152,6 +152,8 @@ TypeScriptの型定義書くとフォームができて、設定データを読�
 
 [Atomic designを辞めて利用目的別のディレクトリ構成に移行する](https://zenn.dev/ynakamura/articles/8fab06bba527b5)
 
+[Atomic Design の課題とその現実的解決策/Atomic Design](https://speakerdeck.com/sawa_zen/atomic-design)
+
 
 #### GraphQL
 

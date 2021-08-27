@@ -123,6 +123,8 @@
 
 [React でデザインシステムを正しく実装する - コンポーネントカタログを超えて](https://www.wantedly.com/companies/wantedly/post_articles/302873)
 
+[フロントエンドから取り組むデザインシステムの改善 #UI](https://techblog.yahoo.co.jp/entry/2021082530175149/)
+
 [ Sociomedia ヒューマンインターフェース ガイドライン ](https://www.sociomedia.co.jp/category/shig)
 
 [ Francfrancデザインシステムとは ]( https://francfranc.io/design-system-guidelines/design-system/ )

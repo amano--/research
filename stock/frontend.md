@@ -145,6 +145,10 @@ TypeScriptの型定義書くとフォームができて、設定データを読�
 
 [Reactで使えるバリデーションライブラリを紹介！](https://bagelee.com/programming/react/validation-library/)
 
+[Tiny Schema Validator](https://github.com/5alidz/tiny-schema-validator)
+Schemaを定義してバリデーションができるbuilderライブラリ。
+作成したSchemaオブジェクトはTypeScriptの型としても利用できる。 "5alidz/tiny-schema-validator: JSON schema validator" 
+
 
 #### プロジェクト構造
 
@@ -155,6 +159,8 @@ TypeScriptの型定義書くとフォームができて、設定データを読�
 [Atomic designを辞めて利用目的別のディレクトリ構成に移行する](https://zenn.dev/ynakamura/articles/8fab06bba527b5)
 
 [Atomic Design の課題とその現実的解決策/Atomic Design](https://speakerdeck.com/sawa_zen/atomic-design)
+
+[ぼくのかんがえたフロントエンドアーキテクチャ](https://zenn.dev/kichion/articles/fddf0eb35ffa2a)
 
 
 #### GraphQL

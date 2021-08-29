@@ -34,6 +34,9 @@ and also some developers and some managers dislike the word "architecture".
 
 [Journey to Event Driven – Part 1: Why Event-First Programming Changes Everything](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/)
 
+### アーキテクチャ設計
+
+[ Webアプリケーションフレームワーク導入時に考慮すべき22の観点 ](https://qiita.com/tmknom/items/08b69594e32a92bccee5)
 
 ### 分散システム MSA
 [ リアクティブマイクロサービス入門（1/2）- 概念編 ]( https://qiita.com/crossroad0201/items/7c8892c459ecef39ccef )

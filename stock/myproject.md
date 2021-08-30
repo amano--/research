@@ -37,6 +37,8 @@ JAVA PROGRAMMER INTERN AT NIGHT
 
 [Packemon example](https://github.com/azu/packemon-demo)
 
+[API Extractor](https://api-extractor.com/pages/contributing/building/)
+API Extractorは、TypeScript開発者がライブラリのAPIサーフェスを管理するのに役立ちます。 NPMパッケージ「@ microsoft / api-extractor」として配布されます。 3つの異なる出力タイプを生成します。
 
 git clone https://github.com/jgraph/drawio.git
 git clone https://github.com/jgraph/mxgraph.git

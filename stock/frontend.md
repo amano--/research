@@ -54,6 +54,8 @@
 - Form関係
 [ react-hook-form ]( https://github.com/react-hook-form/react-hook-form/blob/master/docs/README.ja-JP.md )
 
+[Redux Style Guide 日本語訳](https://qiita.com/nouka/items/74a2784598e7bd5554cd)
+
 ### react-spectrum
 
 [ spectrum tempalte]( https://github.com/evargast/webpack-react-spectrum )

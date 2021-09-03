@@ -236,6 +236,7 @@ Simple React hook to create a HTML5-compliant drag'n'drop zone for files.
 
 [ Testing with Next.js ](https://zenn.dev/takepepe/articles/testing-with-nextjs)
 
+[JestでTypeScriptを高速化する](https://miyauchi.dev/ja/posts/speeding-up-jest/)
 
 ### UI Testing
 

@@ -23,6 +23,8 @@ MDN JavaScript の第一歩
 Git をはじめからていねいに
 (https://github.com/Shinpeim/introduction-to-git)
 
+[【2021年版】国内外Tech系YouTubeチャンネル10選 - 登録者数順まとめ！](https://tech-blog.rakus.co.jp/entry/20210903/youtube)
+
 Web制作者のためのCSS設計の教科書 モダンWeb開発に欠かせない「修正しやすいCSS」の設計手法
 (https://amzn.to/3a5Ov57)
 
@@ -45,6 +47,7 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 [ Cheatography.com ](https://cheatography.com/) 
   - HTML、CSS、JavaScript、Reactなどのチートシート集。
+
 
 ### Typescript 初級
 

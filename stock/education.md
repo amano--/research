@@ -5,7 +5,6 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
 
 ### 完全初心者向け
 
@@ -22,6 +21,8 @@ MDN JavaScript の第一歩
 
 Git をはじめからていねいに
 (https://github.com/Shinpeim/introduction-to-git)
+
+[ GitHub の基礎 - 管理の基本と製品の機能。 ]( https://docs.microsoft.com/ja-jp/learn/paths/github-administration-products/ )
 
 [【2021年版】国内外Tech系YouTubeチャンネル10選 - 登録者数順まとめ！](https://tech-blog.rakus.co.jp/entry/20210903/youtube)
 
@@ -48,6 +49,10 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 [ Cheatography.com ](https://cheatography.com/) 
   - HTML、CSS、JavaScript、Reactなどのチートシート集。
 
+[プログラミング初心者からの脱却！！勉強のために読んで良かった本まとめ](https://codewithyujikame.xyz/blog/a-summary-of-books-to-go-beyond-beginner-of-software-engineer)
+
+[Interactive Learning Tools For Front-End Developers](https://www.smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/)
+  CSS、TypeScript、JavaScript、React、Git、SQL、正規表現、Vim、Jamstackなどを楽しみながら学べる学習サイトが多数紹介されている
 
 ### Typescript 初級
 

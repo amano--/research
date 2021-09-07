@@ -138,6 +138,9 @@
 [ Adele ](https://adele.uxpin.com/)
   The repository of publicly available design systems and pattern libraries
 
+[Style Guide Guide](https://bradfrost.github.io/style-guide-guide/getting-started.html)
+  Brad Frost 氏(AtomicDesign)のスタイルガイドのガイド
+
 ### Form validation 関連
 
 [create-validator-ts](https://github.com/azu/create-validator-ts)

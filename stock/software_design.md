@@ -98,6 +98,10 @@ git clone https://github.com/hvpaiva/clean-architecture-nestjs.git
 
 [clean-react](https://github.com/kajirikajiri/clean-react)
 
+[Frontend Clean Architecture](https://github.com/bespoyasov/frontend-clean-architecture)
+
+[React Clean Architecture](https://kpiteng.medium.com/react-clean-architecture-e4144a0788b6)
+
 [  ](  )
 [  ](  )
 [  ](  )

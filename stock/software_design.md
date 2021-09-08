@@ -102,6 +102,8 @@ git clone https://github.com/hvpaiva/clean-architecture-nestjs.git
 
 [React Clean Architecture](https://kpiteng.medium.com/react-clean-architecture-e4144a0788b6)
 
+[Clean Architecture on Frontend （翻訳）](https://qiita.com/70ki8suda/items/7b720217c9b1b4855e99)
+
 [  ](  )
 [  ](  )
 [  ](  )

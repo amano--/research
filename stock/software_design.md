@@ -104,7 +104,10 @@ git clone https://github.com/hvpaiva/clean-architecture-nestjs.git
 
 [Clean Architecture on Frontend （翻訳）](https://qiita.com/70ki8suda/items/7b720217c9b1b4855e99)
 
-[  ](  )
+[ react-next-redux-cleanarch-sample ](https://github.com/makoto-engineer/react-next-redux-cleanarch-sample)
+
+[ DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together ]( https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/ )
+
 [  ](  )
 [  ](  )
 [  ](  )

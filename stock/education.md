@@ -54,6 +54,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 [Interactive Learning Tools For Front-End Developers](https://www.smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/)
   CSS、TypeScript、JavaScript、React、Git、SQL、正規表現、Vim、Jamstackなどを楽しみながら学べる学習サイトが多数紹介されている
 
+[JavaScriptはなぜシングルスレッドでも非同期処理ができるのか/Why Can JavaSctipt Invoke Asynchronous in Single Thread?](https://speakerdeck.com/task4233/why-can-javasctipt-invoke-asynchronous-in-single-thread)
+
 ### Typescript 初級
 
 ★★★ [ 仕事ですぐに使える TypeScript ]( https://future-architect.github.io/typescript-guide/typescript-guide.pdf )

@@ -76,6 +76,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 [TypeScriptで学ぶ代数的データ型](https://zenn.dev/eagle/articles/ts-coproduct-introduction)
 
+[ TypeScript で string 型の値に自動補完を効かせる ](https://nanto.asablo.jp/blog/2021/09/11/9422241)
+
 #### Typescript 型システム
 
 ★★★ [ TypeScriptの型入門 ]( https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a )

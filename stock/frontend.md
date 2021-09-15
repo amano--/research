@@ -241,6 +241,8 @@ Simple React hook to create a HTML5-compliant drag'n'drop zone for files.
 
 [JestでTypeScriptを高速化する](https://miyauchi.dev/ja/posts/speeding-up-jest/)
 
+[フロントエンドのテストは皆のためのもの](https://postd.cc/frontend-testing-is-for-everyone/)
+
 ### UI Testing
 
 [ react-snap ]( https://github.com/stereobooster/react-snap )

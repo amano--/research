@@ -234,6 +234,9 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 [ モッククラスを使うべきか否か ](https://irof.hateblo.jp/entry/2019/07/17/233048)
 
+[howtheytest-jp](https://github.com/tadashi0713/howtheytest-jp)
+howtheytest を参考に、日本のソフトウェア企業のテスト・テスト自動化に関する資料をまとめています。
+
 ### Chromeデベロッパーツール
 
 [ シニアフロントエンド開発者みたいにChromeデベロッパーツールを使おう ]( https://qiita.com/baby-degu/items/6f367b61d245d5bc217b )

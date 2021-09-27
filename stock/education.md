@@ -224,6 +224,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 ### JavaScript 上級
 
+[JavaScriptの非同期処理をじっくり理解する (1) 実行モデルとタスクキュー](https://zenn.dev/qnighy/articles/345aa9cae02d9d)
+
 [今からでも追いつける！　JavaScriptの「標準ライブラリ」を学ぶ](https://qiita.com/uhyo/items/acd645744fa61c805097)
 
 [Deep JavaScrip](https://exploringjs.com/deep-js/toc.html)

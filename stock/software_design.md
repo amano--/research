@@ -108,6 +108,9 @@ git clone https://github.com/hvpaiva/clean-architecture-nestjs.git
 
 [ DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together ]( https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/ )
 
+[domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
+
 [  ](  )
 [  ](  )
 [  ](  )

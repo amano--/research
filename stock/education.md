@@ -37,6 +37,8 @@ Web制作者のためのCSS設計の教科書 モダンWeb開発に欠かせな�
 
 [ オブジェクト指向と20年戦ってわかったこと ]( https://qiita.com/shibukawa/items/2698b980933367ad93b4 )
 
+[SQL Tutorial](https://speakerdeck.com/nrslib/sql-tutorial)
+
 Vue.js&Nuxt.js超入門
 (https://amzn.to/3uLtvbs)
 

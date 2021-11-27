@@ -58,6 +58,10 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 
 [JavaScriptはなぜシングルスレッドでも非同期処理ができるのか/Why Can JavaSctipt Invoke Asynchronous in Single Thread?](https://speakerdeck.com/task4233/why-can-javasctipt-invoke-asynchronous-in-single-thread)
 
+[awesome-software-design-ja](https://github.com/Katsukiniwa/awesome-software-design-ja)
+ - heynickc/awesome-dddに触発されて作った日本語でのソフトウェア開発・設計に関する記事や書籍をまとめたリポジトリです。
+
+
 ### Typescript 初級
 
 ★★★ [ 仕事ですぐに使える TypeScript ]( https://future-architect.github.io/typescript-guide/typescript-guide.pdf )

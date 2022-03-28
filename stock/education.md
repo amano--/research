@@ -4,7 +4,7 @@
 [  ](  )
 [  ](  )
 [  ](  )
-[  ](  )
+
 
 ### 完全初心者向け
 
@@ -148,6 +148,8 @@ Ruby on Rails チュートリアル(https://railstutorial.jp/)
 [  ](  )
   
 ### React 上級
+
+[ フロントエンドのデザインパターン ]( https://zenn.dev/morinokami/books/learning-patterns-1/viewer )
 
 [ React Fiberアーキテクチャについて ]( https://postd.cc/react-fiber-architecture/ )
 

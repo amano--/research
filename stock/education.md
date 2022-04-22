@@ -83,6 +83,8 @@ CSS、TypeScript、JavaScript、React、Git、SQL、正規表現、Vim、Jamstac
 
 [ TypeScript 練習問題集(Practice TypeScript and Playground) latest update(2020/9/21) ](https://gist.github.com/kenmori/8cea4b82dd12ad31f565721c9c456662)
 
+[イベントループと TypeScript の型から理解する非同期処理 ](https://zenn.dev/mizchi/articles/understanding-promise-by-ts-eventloop)
+
 ### Typescript 上級
 
 [TypeScript で学ぶ代数的データ型](https://zenn.dev/eagle/articles/ts-coproduct-introduction)

@@ -83,8 +83,6 @@ CSS、TypeScript、JavaScript、React、Git、SQL、正規表現、Vim、Jamstac
 
 [ TypeScript 練習問題集(Practice TypeScript and Playground) latest update(2020/9/21) ](https://gist.github.com/kenmori/8cea4b82dd12ad31f565721c9c456662)
 
-[イベントループと TypeScript の型から理解する非同期処理 ](https://zenn.dev/mizchi/articles/understanding-promise-by-ts-eventloop)
-
 ### Typescript 上級
 
 [TypeScript で学ぶ代数的データ型](https://zenn.dev/eagle/articles/ts-coproduct-introduction)
@@ -230,8 +228,6 @@ Kent C. Dodds による Suspense 学習用 Workshop 用コード
 
 ★★★ [ JavaScript 初級者から中級者になろう ](https://uhyohyo.net/javascript/)
 
-★★★ [ JavaScript Promise の本 ](https://azu.github.io/promises-book/)
-
 ★★ [ 2018 年に見直した現代的な JavaScript の記法を紹介するぜ ](https://ics.media/entry/17262/)
 
 [ ECMAScript とは何か？ ](https://azu.github.io/slide-what-is-ecmascript/)
@@ -243,11 +239,18 @@ Kent C. Dodds による Suspense 学習用 Workshop 用コード
 
 ### JavaScript 上級
 
-[JavaScript の非同期処理をじっくり理解する (1) 実行モデルとタスクキュー](https://zenn.dev/qnighy/articles/345aa9cae02d9d)
-
 [今からでも追いつける！　 JavaScript の「標準ライブラリ」を学ぶ](https://qiita.com/uhyo/items/acd645744fa61c805097)
 
 [Deep JavaScrip](https://exploringjs.com/deep-js/toc.html)
+
+### JavaScript Promise 非同期処理関連
+
+[JavaScript の非同期処理をじっくり理解する (1) 実行モデルとタスクキュー](https://zenn.dev/qnighy/articles/345aa9cae02d9d)
+[イベントループと TypeScript の型から理解する非同期処理 ](https://zenn.dev/mizchi/articles/understanding-promise-by-ts-eventloop)
+
+[ V8エンジンによる内部変換コードでasync/awaitの挙動を理解する ](https://zenn.dev/estra/articles/asyncawait-v8-converting)
+
+★★★ [ JavaScript Promise の本 ](https://azu.github.io/promises-book/)
 
 ### test
 

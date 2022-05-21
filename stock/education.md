@@ -67,6 +67,8 @@ CSS、TypeScript、JavaScript、React、Git、SQL、正規表現、Vim、Jamstac
 
 - heynickc/awesome-ddd に触発されて作った日本語でのソフトウェア開発・設計に関する記事や書籍をまとめたリポジトリです。
 
+[企業テックブログRSS ](https://yamadashy.github.io/tech-blog-rss-feed/)
+
 ### Typescript 初級
 
 ★★★ [ 仕事ですぐに使える TypeScript ](https://future-architect.github.io/typescript-guide/typescript-guide.pdf)

@@ -1,8 +1,6 @@
 [ ]()
 [ ]()
 [ ]()
-[ ]()
-[ プログラムがメモリをどう使うかを理解する(1)](https://zenn.dev/rita0222/articles/e6ff75245d79b5)
 
 ### 完全初心者向け
 
@@ -22,6 +20,8 @@ MDN ウェブ入門(https://developer.mozilla.org/ja/docs/Learn/Getting_started_
 
 MDN JavaScript の第一歩
 (https://developer.mozilla.org/ja/docs/Learn/JavaScript/First_steps)
+
+[GitHub の使い方を学ぶ「GitHub Skills」が無料公開。GitHub を実際に操作して Markdown、Pages、Pull Requests、マージのコンフリクト解消などを体験 ](https://www.publickey1.jp/blog/22/githubgithub_skillsgithubmarkdownpagespull_requests.html)
 
 Git をはじめからていねいに
 (https://github.com/Shinpeim/introduction-to-git)
@@ -67,7 +67,9 @@ CSS、TypeScript、JavaScript、React、Git、SQL、正規表現、Vim、Jamstac
 
 - heynickc/awesome-ddd に触発されて作った日本語でのソフトウェア開発・設計に関する記事や書籍をまとめたリポジトリです。
 
-[企業テックブログRSS ](https://yamadashy.github.io/tech-blog-rss-feed/)
+[企業テックブログ RSS ](https://yamadashy.github.io/tech-blog-rss-feed/)
+
+[ プログラムがメモリをどう使うかを理解する(1)](https://zenn.dev/rita0222/articles/e6ff75245d79b5)
 
 ### Typescript 初級
 
@@ -90,6 +92,9 @@ CSS、TypeScript、JavaScript、React、Git、SQL、正規表現、Vim、Jamstac
 [TypeScript で学ぶ代数的データ型](https://zenn.dev/eagle/articles/ts-coproduct-introduction)
 
 [ TypeScript で string 型の値に自動補完を効かせる ](https://nanto.asablo.jp/blog/2021/09/11/9422241)
+
+[ tsconfig.json について ](https://tsurutan.me/articles/about-tsconfig-json)
+[Compiler Options](https://www.typescriptlang.org/ja/tsconfig)
 
 #### Typescript 型システム
 
@@ -250,7 +255,7 @@ Kent C. Dodds による Suspense 学習用 Workshop 用コード
 [JavaScript の非同期処理をじっくり理解する (1) 実行モデルとタスクキュー](https://zenn.dev/qnighy/articles/345aa9cae02d9d)
 [イベントループと TypeScript の型から理解する非同期処理 ](https://zenn.dev/mizchi/articles/understanding-promise-by-ts-eventloop)
 
-[ V8エンジンによる内部変換コードでasync/awaitの挙動を理解する ](https://zenn.dev/estra/articles/asyncawait-v8-converting)
+[ V8 エンジンによる内部変換コードで async/await の挙動を理解する ](https://zenn.dev/estra/articles/asyncawait-v8-converting)
 
 ★★★ [ JavaScript Promise の本 ](https://azu.github.io/promises-book/)
 

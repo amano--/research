@@ -1,97 +1,99 @@
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[ LAPRAS ]( https://lapras.com )
- - オープンデータから 個人のポートフォリオを自動生成します
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ LAPRAS ](https://lapras.com)
+
+- オープンデータから 個人のポートフォリオを自動生成します
 
 ### Event Storming CQRS
-[ CQRS Documents by Greg Young - 日本語訳 ]( http://www.minato.tv/cqrs/cqrs_documents_jp.pdf )
 
-[ Awesome EventStorming ]( https://github.com/mariuszgil/awesome-eventstorming )
+[ CQRS Documents by Greg Young - 日本語訳 ](http://www.minato.tv/cqrs/cqrs_documents_jp.pdf)
 
-[ EventStorming SoftwareDesign as a Cooperative Game ]( https://speakerdeck.com/98lerr/eventstorming-softwaredesign-as-a-cooperative-game )
+[ Awesome EventStorming ](https://github.com/mariuszgil/awesome-eventstorming)
 
-[ EventStorming; Core concepts, glossary and legend ]( https://baasie.com/2020/07/16/eventstorming-core-concepts-glossary-and-legend/ )
+[ EventStorming SoftwareDesign as a Cooperative Game ](https://speakerdeck.com/98lerr/eventstorming-softwaredesign-as-a-cooperative-game)
 
-[ Crunching 'real-life stories' with DDD & Event Storming ]( https://www.youtube.com/watch?v=WvkBKvMnyuc )
+[ EventStorming; Core concepts, glossary and legend ](https://baasie.com/2020/07/16/eventstorming-core-concepts-glossary-and-legend/)
 
-[ Software design as a cooperative game with EventStorming ]( https://www.slideshare.net/mobile/ziobrando/software-design-as-a-cooperative-game-with-eventstorming
- )
+[ Crunching 'real-life stories' with DDD & Event Storming ](https://www.youtube.com/watch?v=WvkBKvMnyuc)
 
-[ Trying out online EventStorming ]( https://www.youtube.com/watch?v=CbPEibNUe0s )
+[ Software design as a cooperative game with EventStorming ](https://www.slideshare.net/mobile/ziobrando/software-design-as-a-cooperative-game-with-eventstorming)
+
+[ Trying out online EventStorming ](https://www.youtube.com/watch?v=CbPEibNUe0s)
 
 ### 基礎
 
-[ LINE社内で大評判のテクニカルライティング講座で説明した内容をあらためてブログにまとめてみた ]( https://engineering.linecorp.com/ja/blog/line-technical-writing-course/ )
+[ LINE 社内で大評判のテクニカルライティング講座で説明した内容をあらためてブログにまとめてみた ](https://engineering.linecorp.com/ja/blog/line-technical-writing-course/)
 
-[ 命名のプロセス ]( https://scrapbox.io/kawasima/%E5%91%BD%E5%90%8D%E3%81%AE%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9 )
+[ 命名のプロセス ](https://scrapbox.io/kawasima/%E5%91%BD%E5%90%8D%E3%81%AE%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9)
 
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
 
 ### DDD
 
-[ 7つの設計原則とオブジェクト指向プログラミング ]( https://masuda220.hatenablog.com/entry/2020/06/26/182317 )
+[ 7 つの設計原則とオブジェクト指向プログラミング ](https://masuda220.hatenablog.com/entry/2020/06/26/182317)
 
-[ 僕とDDDとClean ArchitectureとやっぱりDDD ]( https://kenfdev.hateblo.jp/entry/2019/07/31/234520 )
+[ 僕と DDD と Clean Architecture とやっぱり DDD ](https://kenfdev.hateblo.jp/entry/2019/07/31/234520)
 
-[ 要件定義・仕様化・実装の継ぎ目をなくすCCSR開発手法 ]( https://masuda220.hatenablog.com/entry/2020/05/27/103750 )
+[ 要件定義・仕様化・実装の継ぎ目をなくす CCSR 開発手法 ](https://masuda220.hatenablog.com/entry/2020/05/27/103750)
 
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
 
 - 記事
 
-[ Introducing Domain-Oriented Microservice Architecture ]( https://eng.uber.com/microservice-architecture/ )
-  - Uber の DDD設計について
+[ Introducing Domain-Oriented Microservice Architecture ](https://eng.uber.com/microservice-architecture/)
 
-[ DDD質問箱の回答 ]( https://github.com/little-hands/ddd-q-and-a )
+- Uber の DDD 設計について
+
+[ DDD 質問箱の回答 ](https://github.com/little-hands/ddd-q-and-a)
 
 ### CleanArchitecture
 
-[ Clean Architecture と React を組み合わせる ]( https://hfuji.hatenablog.jp/entry/2019/01/14/195636 )
-  [ react-clean-architecture ]( https://github.com/eduardomoroni/react-clean-architecture )
+[ Clean Architecture と React を組み合わせる ](https://hfuji.hatenablog.jp/entry/2019/01/14/195636)
+[ react-clean-architecture ](https://github.com/eduardomoroni/react-clean-architecture)
 
-[ Futterアプリをクリーンアーキテクチャ+TDDでつくる動画 ]( https://www.youtube.com/watch?v=KjE2IDphA_U&feature=youtu.be )
+[ Futter アプリをクリーンアーキテクチャ+TDD でつくる動画 ](https://www.youtube.com/watch?v=KjE2IDphA_U&feature=youtu.be)
 
-Uncle Bobと息子のMicah MartinがペアプロしながらWebシステムを作る講義
-[ CleanCodeCaseStudy ]( https://github.com/cleancoders/CleanCodeCaseStudy )
+Uncle Bob と息子の Micah Martin がペアプロしながら Web システムを作る講義
+[ CleanCodeCaseStudy ](https://github.com/cleancoders/CleanCodeCaseStudy)
 
 [ clean-architecture-nestjs ](https://github.com/hvpaiva/clean-architecture-nestjs)
 git clone https://github.com/hvpaiva/clean-architecture-nestjs.git
@@ -106,24 +108,24 @@ git clone https://github.com/hvpaiva/clean-architecture-nestjs.git
 
 [ react-next-redux-cleanarch-sample ](https://github.com/makoto-engineer/react-next-redux-cleanarch-sample)
 
-[ DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together ]( https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/ )
+[ DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together ](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 
 [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
 
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
 
 - 記事
 
-### 
+###
 
-[ クラウド設計パターン ]( https://docs.microsoft.com/ja-jp/azure/architecture/patterns/ )
+[ クラウド設計パターン ](https://docs.microsoft.com/ja-jp/azure/architecture/patterns/)
 
 ### test
 
@@ -131,48 +133,49 @@ Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
 
 ### デザインパターン 等
 
-[ ちょうぜつ Advent Calendar 2019 - マンガでわかるGoFデザインパターンやります ](  https://qiita.com/advent-calendar/2019/memory-chan)
+[ ちょうぜつ Advent Calendar 2019 - マンガでわかる GoF デザインパターンやります ](https://qiita.com/advent-calendar/2019/memory-chan)
 
 ### 設計ドキュメント管理
 
-[ 残業も減らせる!? 上級エンジニアになるためのDesign Doc超入門 (1/3) ]( https://www.atmarkit.co.jp/ait/articles/1606/21/news016.html )
+[ 残業も減らせる!? 上級エンジニアになるための Design Doc 超入門 (1/3) ](https://www.atmarkit.co.jp/ait/articles/1606/21/news016.html)
 
 # サンプルプロジェクト
 
 ### DDD
 
-[ 増田さん提唱 ccsrサンプル ]( https://github.com/system-sekkei/ccsr-object-mapping )
+[ 増田さん提唱 ccsr サンプル ](https://github.com/system-sekkei/ccsr-object-mapping)
 
-[ 増田さんによるDDDサンプル ]( https://github.com/system-sekkei/isolating-the-domain )
+[ 増田さんによる DDD サンプル ](https://github.com/system-sekkei/isolating-the-domain)
 
-[ 松岡さんによるDDDサンプル ]( https://github.com/little-hands/ddd-examples )
+[ 松岡さんによる DDD サンプル ](https://github.com/little-hands/ddd-examples)
 
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
+[ CQRS by Example and DDD in PHP 書籍のサンプル ](https://github.com/dddshelf)
+
+[ Uncle Bob による CA サンプル](https://github.com/cleancoders/CleanCodeCaseStudy)
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
 
 ### CleanArchitecture
 
-[ Frontend Clean Architecture Essence Consideration ]( https://github.com/uruha/frontend-clean-architecture-essence-consideration )
+[ Frontend Clean Architecture Essence Consideration ](https://github.com/uruha/frontend-clean-architecture-essence-consideration)
 
-[ CleanArchitecture C#用 ]( https://github.com/ardalis/cleanarchitecture )
+[ CleanArchitecture C#用 ](https://github.com/ardalis/cleanarchitecture)
 
-[ Clean Architecture と React を組み合わせる ]( https://hfuji.hatenablog.jp/entry/2019/01/14/195636 )
-  [ react-clean-architecture ]( https://github.com/eduardomoroni/react-clean-architecture )
+[ Clean Architecture と React を組み合わせる ](https://hfuji.hatenablog.jp/entry/2019/01/14/195636)
+[ react-clean-architecture ](https://github.com/eduardomoroni/react-clean-architecture)
 
-[ Building Vue Enterprise Application - Applying Principles of Clean Architecture to Enterprise Frontend Application ]( https://github.com/soloschenko-grigoriy/vue-vuex-ts )
+[ Building Vue Enterprise Application - Applying Principles of Clean Architecture to Enterprise Frontend Application ](https://github.com/soloschenko-grigoriy/vue-vuex-ts)
 
-[ clean-architecture-nodejs-graphql-codegen ]( https://github.com/suzukalight/clean-architecture-nodejs-graphql-codegen )
+[ clean-architecture-nodejs-graphql-codegen ](https://github.com/suzukalight/clean-architecture-nodejs-graphql-codegen)
 
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
-[  ](  )
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()
+[ ]()

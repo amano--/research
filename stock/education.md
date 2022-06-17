@@ -71,6 +71,12 @@ CSS、TypeScript、JavaScript、React、Git、SQL、正規表現、Vim、Jamstac
 
 [ プログラムがメモリをどう使うかを理解する(1)](https://zenn.dev/rita0222/articles/e6ff75245d79b5)
 
+[ 状態、結合、複雑性、コード量の順に最適化する](https://ohbarye.hatenablog.jp/entry/2022/01/31/state-coupling-complexity-code)
+
+[ Frontend Study #1: 基調講演 - Frontend 領域を再定義する ](https://zenn.dev/mizchi/articles/c638f1b3b0cd239d3eea)
+
+
+
 ### Typescript 初級
 
 ★★★ [ 仕事ですぐに使える TypeScript ](https://future-architect.github.io/typescript-guide/typescript-guide.pdf)

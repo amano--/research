@@ -20,6 +20,35 @@
 [ ]()
 [ ]()
 
+#### プロジェクト構造
+
+[ フロントエンドと素朴なコードベース ](https://zoshigayan.net/soboku-solution/)
+
+src 以下のディレクトリ構造に関して知見が書かれている
+
+[Atomic design を辞めて利用目的別のディレクトリ構成に移行する](https://zenn.dev/ynakamura/articles/8fab06bba527b5)
+
+[Atomic Design の課題とその現実的解決策/Atomic Design](https://speakerdeck.com/sawa_zen/atomic-design)
+
+[ぼくのかんがえたフロントエンドアーキテクチャ](https://zenn.dev/kichion/articles/fddf0eb35ffa2a)
+
+[弁護士ドットコムライブラリーのフロントエンドのアーキテクチャ（Next.js + TypeScript）](https://panda-program.com/posts/bengo4com-library-frontend)
+
+[]()
+[]()
+[]()
+[]()
+[]()
+
+### CSS 設計
+
+[それでも私が Tailwind CSS ではなく、CSS Modules を推す理由](https://qiita.com/70ki8suda/items/b95aeb4d4d3cab57a8fe)
+[]()
+[]()
+[]()
+[]()
+[]()
+
 ### Typescript
 
 [ TypeScript の型定義ファイルの探索アルゴリズム ](https://numb86-tech.hatenablog.com/entry/2020/07/15/153431)
@@ -158,18 +187,6 @@ TypeScript の型定義書くとフォームができて、設定データを読
 [Tiny Schema Validator](https://github.com/5alidz/tiny-schema-validator)
 Schema を定義してバリデーションができる builder ライブラリ。
 作成した Schema オブジェクトは TypeScript の型としても利用できる。 "5alidz/tiny-schema-validator: JSON schema validator"
-
-#### プロジェクト構造
-
-[ フロントエンドと素朴なコードベース ](https://zoshigayan.net/soboku-solution/)
-
-src 以下のディレクトリ構造に関して知見が書かれている
-
-[Atomic design を辞めて利用目的別のディレクトリ構成に移行する](https://zenn.dev/ynakamura/articles/8fab06bba527b5)
-
-[Atomic Design の課題とその現実的解決策/Atomic Design](https://speakerdeck.com/sawa_zen/atomic-design)
-
-[ぼくのかんがえたフロントエンドアーキテクチャ](https://zenn.dev/kichion/articles/fddf0eb35ffa2a)
 
 #### GraphQL
 

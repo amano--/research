@@ -11,15 +11,17 @@ Instead of tsc and tsserver, use ttsc and ttsserver wrappers. This wrappers try 
 
 No version lock-ins - typescript used as peer dependency.
 
-[ TypeScript Compiler APIを使って型を中心に実装を自動生成する ](https://blog.nnn.dev/entry/2020/12/11/021008)
+[ TypeScript Compiler API を使って型を中心に実装を自動生成する ](https://blog.nnn.dev/entry/2020/12/11/021008)
 
 [ TypeScript Compiler API Factory Code Generator Generator ](https://github.com/dsherret/ts-factory-code-generator-generator)
 
-[ TypeScriptのcompiler APIをいじる ](https://akito0107.hatenablog.com/entry/2018/12/23/020323)
+[ TypeScript の compiler API をいじる ](https://akito0107.hatenablog.com/entry/2018/12/23/020323)
+
+[ VSCode で TypeScript の交差型のプロパティを省略せずに見れるようにする](https://tech.mobilefactory.jp/entry/2021/12/02/000000)
 
 TransoformerFactory について
 
-[]()
+[TypeScript 型レベルプログラミングの細かいテクニック](https://zenn.dev/suin/scraps/8828d6c915298c)
 []()
 []()
 []()

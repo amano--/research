@@ -75,8 +75,6 @@ CSS、TypeScript、JavaScript、React、Git、SQL、正規表現、Vim、Jamstac
 
 [ Frontend Study #1: 基調講演 - Frontend 領域を再定義する ](https://zenn.dev/mizchi/articles/c638f1b3b0cd239d3eea)
 
-
-
 ### Typescript 初級
 
 ★★★ [ 仕事ですぐに使える TypeScript ](https://future-architect.github.io/typescript-guide/typescript-guide.pdf)
@@ -264,6 +262,10 @@ Kent C. Dodds による Suspense 学習用 Workshop 用コード
 [ V8 エンジンによる内部変換コードで async/await の挙動を理解する ](https://zenn.dev/estra/articles/asyncawait-v8-converting)
 
 ★★★ [ JavaScript Promise の本 ](https://azu.github.io/promises-book/)
+
+### ESLint
+
+[ESLint のエラールール。日本語ざっくり解説[ベストプラクティス編] ](https://qiita.com/M-ISO/items/4cd183e2496c2937a53e)
 
 ### test
 

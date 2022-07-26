@@ -89,6 +89,8 @@
 
 [Clean Architecture on Frontend （翻訳） ](https://qiita.com/70ki8suda/items/7b720217c9b1b4855e99)
 
+[ Clean Architecture: Applying with React](https://dev.to/rubemfsv/clean-architecture-applying-with-react-40h6)
+
 [ Clean Architecture と React を組み合わせる ](https://hfuji.hatenablog.jp/entry/2019/01/14/195636)
 [ react-clean-architecture ](https://github.com/eduardomoroni/react-clean-architecture)
 
@@ -133,8 +135,7 @@ Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
 
 - 記事
 
-### 
-
+###
 
 [ クラウド設計パターン ](https://docs.microsoft.com/ja-jp/azure/architecture/patterns/)
 
@@ -171,7 +172,6 @@ Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
 [ ]()
 
 ### CleanArchitecture
-
 
 https://panda-program.com/posts/bengo4com-library-frontend
 

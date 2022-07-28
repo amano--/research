@@ -256,12 +256,15 @@ Kent C. Dodds による Suspense 学習用 Workshop 用コード
 
 ### JavaScript Promise 非同期処理関連
 
+★★★ [ JavaScript Promise の本 ](https://azu.github.io/promises-book/)
+
+[徹底解説！　 return promise と return await promise の違い](https://zenn.dev/uhyo/articles/return-await-promise)
+
 [JavaScript の非同期処理をじっくり理解する (1) 実行モデルとタスクキュー](https://zenn.dev/qnighy/articles/345aa9cae02d9d)
+
 [イベントループと TypeScript の型から理解する非同期処理 ](https://zenn.dev/mizchi/articles/understanding-promise-by-ts-eventloop)
 
 [ V8 エンジンによる内部変換コードで async/await の挙動を理解する ](https://zenn.dev/estra/articles/asyncawait-v8-converting)
-
-★★★ [ JavaScript Promise の本 ](https://azu.github.io/promises-book/)
 
 ### ESLint
 

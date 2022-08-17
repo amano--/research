@@ -155,6 +155,10 @@ Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
 
 ### DDD
 
+- Evans のサンプル
+  [　 dddsample-core 　](https://github.com/citerus/dddsample-core)
+  [ Time and Money Code Library ](http://timeandmoney.sourceforge.net/)
+
 [ 増田さん提唱 ccsr サンプル ](https://github.com/system-sekkei/ccsr-object-mapping)
 
 [ 増田さんによる DDD サンプル ](https://github.com/system-sekkei/isolating-the-domain)

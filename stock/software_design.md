@@ -151,6 +151,8 @@ Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
 
 [ 残業も減らせる!? 上級エンジニアになるための Design Doc 超入門 (1/3) ](https://www.atmarkit.co.jp/ait/articles/1606/21/news016.html)
 
+[現場ですぐに適応できる 〜 “アジャイル時代のモデリング “ ](https://fujiyamaegg.com/tech-from-modeling-in-agile-age/)
+
 # サンプルプロジェクト
 
 ### DDD
@@ -168,7 +170,6 @@ Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
 [ CQRS by Example and DDD in PHP 書籍のサンプル ](https://github.com/dddshelf)
 
 [ Uncle Bob による CA サンプル](https://github.com/cleancoders/CleanCodeCaseStudy)
-[ ]()
 [ ]()
 [ ]()
 [ ]()

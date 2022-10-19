@@ -154,6 +154,10 @@ src 以下のディレクトリ構造に関して知見が書かれている
 
 #### デザインシステム関係
 
+[Cloudscape – Cloudscape Design System](https://cloudscape.design/)
+AWS で使われているデザインシステム。
+デザインシステムの原則を書いたドキュメント、React コンポーネント、利用する時のパターンから構成されている。
+
 [React でデザインシステムを正しく実装する - コンポーネントカタログを超えて](https://www.wantedly.com/companies/wantedly/post_articles/302873)
 
 [フロントエンドから取り組むデザインシステムの改善 #UI](https://techblog.yahoo.co.jp/entry/2021082530175149/)

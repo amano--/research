@@ -104,6 +104,8 @@ CSS、TypeScript、JavaScript、React、Git、SQL、正規表現、Vim、Jamstac
 
 ★★★ [ TypeScript の型入門 ](https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a)
 
+[TypeScript の"型"を学びたいあなたへ。type-challenges のすゝめ](https://qiita.com/ryo2132/items/925b96838dd8cca7cebd)
+
 [TypeScript 型の課題集](https://github.com/type-challenges/type-challenges/blob/master/README.ja.md)
 
 [ こわくない TypeScript〜Mapped Type も Conditional Type も使いこなせ〜 ](https://blog.uhy.ooo/entry/2020-08-31/dont-fear-ts/)

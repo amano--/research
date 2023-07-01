@@ -43,7 +43,7 @@ src 以下のディレクトリ構造に関して知見が書かれている
 ### CSS 設計
 
 [それでも私が Tailwind CSS ではなく、CSS Modules を推す理由](https://qiita.com/70ki8suda/items/b95aeb4d4d3cab57a8fe)
-[]()
+[コンポーネントベースで開発する時の CSS の書き方とコンポーネントの分類 (自己流)](https://zenn.dev/mizchi/articles/component-based-css)
 []()
 []()
 []()

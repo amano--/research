@@ -125,6 +125,12 @@ CSS、TypeScript、JavaScript、React、Git、SQL、正規表現、Vim、Jamstac
 [ TypeScript のコンパイルパフォーマンスについてまとめられているページ ](https://github.com/microsoft/TypeScript/wiki/Performance)
 　　 type と interface、Base Type と Union Type、Project Reference、tsconfig.json の設定による最適化について
 
+total-typescript/beginners-typescript-tutorial
+An interactive TypeScript tutorial for beginners
+total-typescript/beginners-typescript-tutorial
+
+Web 上のテキストエディタで、TypeScript の初心者向けのチュートリアルを提供しているプログラミング学習サービス。エディタに型チェック機構を搭載しており、型エラーを解消すると次に進めるようになってます。
+
 ### Typescript Javascript 特殊記法
 
 ★★★ [ React で役立つ分割代入とスプレッド演算子 ](https://masayuki031.com/reactjs-spread-operator/)

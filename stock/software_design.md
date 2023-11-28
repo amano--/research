@@ -131,7 +131,7 @@ Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
 [ ]()
 [ ]()
 [ ]()
-[ ]()
+[ TS で書かれた CA 例　 lens-protocol 　](https://github.com/lens-protocol/lens-sdk/tree/main/packages/domain)
 
 - 記事
 

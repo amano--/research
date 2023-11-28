@@ -2,21 +2,25 @@
 [ ]()
 [ ]()
 
+### 独学資料集
+
+[コーディング面接の大学](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ja.md)
+
+[ 各社の開発研修資料 2021 年度まとめのまとめ ](https://zenn.dev/sakito/scraps/c9553358e998da)
+
+MDN ウェブ入門(https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web)
+
 ### 完全初心者向け
 
 [ developer-roadmap ](https://github.com/kamranahmedse/developer-roadmap)
 
 [React 入門チュートリアル (1) React とは何か ](https://www.hypertextcandy.com/react-tutorial-01-what-is-react)
 
-[ 各社の開発研修資料 2021 年度まとめのまとめ ](https://zenn.dev/sakito/scraps/c9553358e998da)
-
 [ プログラミング初学者のための「即戦力ノウハウ」（4 万字） ](https://qiita.com/yokarikeri/items/a0163bbb5ec0dfa85e07)
 
 [ AWS 初学者向けの勉強方法 6 ステップ！2022 年版！](https://aws.amazon.com/jp/blogs/news/2022-aws-beginner-learning/)
 
 [ AWS 無料勉強資料集 ](https://www.jaws-ug-kanazawa-68times.com/)
-
-MDN ウェブ入門(https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web)
 
 MDN JavaScript の第一歩
 (https://developer.mozilla.org/ja/docs/Learn/JavaScript/First_steps)

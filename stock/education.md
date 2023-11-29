@@ -16,6 +16,13 @@ MDN ウェブ入門(https://developer.mozilla.org/ja/docs/Learn/Getting_started_
 
 [React 入門チュートリアル (1) React とは何か ](https://www.hypertextcandy.com/react-tutorial-01-what-is-react)
 
+speakerdeck.com/recruitengineers/react
+React slide
+
+2023 年度リクルート エンジニアコース新人研修の講義資料です
+React の考え方についてのスライド。
+MPA/SPA の違いや課題、宣言的 UI としての React、コンポーネント、状態管理、レンダリング、副作用について
+
 [ プログラミング初学者のための「即戦力ノウハウ」（4 万字） ](https://qiita.com/yokarikeri/items/a0163bbb5ec0dfa85e07)
 
 [ AWS 初学者向けの勉強方法 6 ステップ！2022 年版！](https://aws.amazon.com/jp/blogs/news/2022-aws-beginner-learning/)

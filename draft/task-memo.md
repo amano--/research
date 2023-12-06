@@ -7,5 +7,6 @@
 
 一般社団法人設立準備
 
-NISA 減額　確定拠出、小規模共済　変更
+NISA 減額　
+確定拠出、小規模共済　変更
 https://www.smrj.go.jp/kyosai/skyosai/customer/procedure/installment/06.html

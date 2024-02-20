@@ -1,8 +1,10 @@
 [ ]()
 [ ]()
-[ ]()
 
 ### 独学資料集
+
+[私が独学をして、マジ神だと思うサイトおよび他
+](https://qiita.com/chi1180/items/d945f5507f546bffa610)
 
 [コーディング面接の大学](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ja.md)
 

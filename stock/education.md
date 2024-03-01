@@ -1,4 +1,4 @@
-[ ]()
+[ 日本語文字コード範囲指定（ascii・ひらがな・カタカナ・第一水準および第二水準(JIS-X0208-1997)に含まれる漢字）](https://gist.github.com/kgsi/ed2f1c5696a2211c1fd1e1e198c96ee4#file-japanese_full-txt)
 [ ]()
 
 ### 独学資料集

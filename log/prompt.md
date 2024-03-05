@@ -15,4 +15,80 @@
 - WEB アプリとして提供する。ユーザー認証機能は実装しない。
 - 入出力したデータはローカルストレージに保存する。
 
-プ
+下記の Java 言語のコードをリファクタリングしてください。
+
+Code:"""
+コードを貼る
+"""
+
+下記のデータベーススキーマがあります。この時、名前が"山田"で始まる人のうち、年齢が 30 歳以上のアカウントの好きなエディターを抜き出す SQL を書いてください。
+
+Schema: """
+CREATE TABLE account(
+id INTEGER,
+attr1 INTEGER NOT NULL,
+/_ 好きなエディター _/
+attr2 VARCHAR(255) NOT NULL,
+);
+
+CREATE TABLE profile(
+account_id INTEGER,
+name varchar(255),
+age integer,
+constraint fk_person_id foreign key(person_id) references account(id)
+);
+"""
+
+ReAct プロンプトの型
+
+[文章（質問または指示）
+Thought :
+Action :
+Observation :
+
+[Prompt Engineering Guide](https://www.promptingguide.ai/jp)
+
+「ステップバイステップで考えてみましょう」という文言を追加
+
+[仕様書とテストを用いた「AI 駆動開発」](https://zenn.dev/fumi_sagawa/articles/932bcaafd28c53)
+
+優秀なエンジニアのように振る舞ってください。
+以下の仕様をもとに jest のテストコードを作成してください。
+また、仕様を満たしあなたが出力したテストコードを通過する関数を{出力形式を定義。Typescript, React など}で作成してください。
+
+## 仕様
+
+### 概要
+
+// 仕様の全体感を箇条書きで記述
+
+### 画面レイアウト
+
+// UI が存在する場合箇条書きでパーツごとに記述
+
+### 動作
+
+// 動作を箇条書きで記述
+
+なお出力形式は以下とします。
+まず{テスト仕様(同値分割法など)}を{出力方式(mermaid)}形式で作成し、その後{追加の命令文(任意)}テストコードを作成してください。
+
+## 出力形式
+
+- 概要
+- テストコード
+- 実装例
+
+私たちがこのタスクで最高の結果を出すためにステップバイステップで考えてください。
+
+[OpenAIのPrompt Engineering Guideでより良い結果を得るプロンプトエンジニアリングを学ぶ]()
+コードの各部分が何をしているのか、なぜそのように書かれているのかを説明するために、各ブロックにコメントを入れてください。
+
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+
+[【ChatGPT プラグイン】AskYourCode によるコードの読み込み](https://self-development.info/%E3%80%90chatgpt%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E3%80%91askyourcode%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%81%BF/)

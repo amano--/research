@@ -1,12 +1,10 @@
 export const ScrumMemberRole = {
-  ProductOwner: 'product_owner',
-  ScrumMaster: 'scrum_master',
-  Developer: 'developer',
+ProductOwner: 'product_owner',
+ScrumMaster: 'scrum_master',
+Developer: 'developer',
 } as const
 
 export type ScrumMemberRoleType = (typeof ScrumMemberRole)[keyof typeof ScrumMemberRole]
-
-
 
 [ TypeScript Compiler API の基本的な使い方、コード例と作ってみたもの ](https://katashin.info/2018/02/24/221)
 

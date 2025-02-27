@@ -1,3 +1,18 @@
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+
+[Chrome のブックマークを整理する GPTs つくってみた](https://zenn.dev/ap_com/articles/bookmark-management-with-gpts)
+
+[react-dnd-kit-tailwind-shadcn-ui Example](https://github.com/Georgegriff/react-dnd-kit-tailwind-shadcn-ui?tab=readme-ov-file)
+
 [小規模環境の i18n で t("Hello","こんにちは")のように日本語を fallback に入れる運用したら良かった話](https://zenn.dev/terrierscript/articles/2021-07-13-i18n)
 
 [Awesome Node-Based UIs](https://github.com/xyflow/awesome-node-based-uis?tab=readme-ov-file)

@@ -7,7 +7,7 @@
 []()
 []()
 []()
-[]()
+[Webサービス公開前のチェックリスト](https://zenn.dev/catnose99/articles/547cbf57e5ad28)
 
 [Chrome のブックマークを整理する GPTs つくってみた](https://zenn.dev/ap_com/articles/bookmark-management-with-gpts)
 

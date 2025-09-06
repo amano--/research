@@ -7,6 +7,12 @@
 []()
 []()
 []()
+ https://animate-ui.com
+2️⃣ https://icons.pqoqubbw.dev
+3️⃣ https://tailark.com
+4️⃣ https://kokonutui.com
+
+凝った LP や UI演出は プロンプトより Registry 召喚のが早いよなぁ https://pic.x.com/InGknDcdt1
 [Webサービス公開前のチェックリスト](https://zenn.dev/catnose99/articles/547cbf57e5ad28)
 
 [Chrome のブックマークを整理する GPTs つくってみた](https://zenn.dev/ap_com/articles/bookmark-management-with-gpts)

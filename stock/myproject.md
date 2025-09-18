@@ -5,6 +5,12 @@
 []()
 []()
 []()
+
+いろんなアプリのデザイン例が見れて便利ですね
+英語サイトなのでちょっととっつきにくいかもですが参考になります😎
+https://refero.design/apps?order=trending
+
+JLPT N1レベルで回答してください
 [プロフェッショナルなプロンプトを書くには](https://www.coursera.org/learn/google-start-writing-prompts-like-a-pro/home/module/1)
 [ブラウザは 「フロントエンド」を何から守っているのか？_for_public](https://docs.google.com/presentation/d/1SRlqYR7m4a9JcN9GblnByeQP7Mmwwoe8zTlQQDhqMJc/edit?slide=id.g3859b96bdac_0_1435#slide=id.g3859b96bdac_0_1435)
  https://animate-ui.com

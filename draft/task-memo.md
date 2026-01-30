@@ -1,4 +1,4 @@
-最近では　 Google の antigravity 　とかを使って、AI 時代に最適な仕様書の書き方、仕様駆動開発の進め方を　 Github の SpecKit 　 AWS の Kiro クラスメソッドの AI 支援型テスト駆動開発フレームワーク「Tsumiki」や　 RDRA を参考にして研究しています。技術スタックは tanstack-router / hono /　TypeSpec Orval drizzle を使った TS フルスタックの実装で、SKILLsの拡充による生産率向上化、コードの安定化や、AI モデルの実装比較等を検証しています。
+最近では　AI 時代に最適な仕様書の書き方、仕様駆動開発の進め方を Google の antigravity 　とかを使って、Github の SpecKit 　AWS の Kiro クラスメソッドの AI 支援型テスト駆動開発フレームワーク「Tsumiki」や　 RDRA を参考にして研究しています。技術スタックは tanstack-router / hono /　TypeSpec Orval drizzle を使った TS フルスタックの実装で、SKILLsの拡充による生産率向上化、コードの安定化や、AI モデルの実装比較等を検証しています。
 
 技術スタック
 使用 AI モデル

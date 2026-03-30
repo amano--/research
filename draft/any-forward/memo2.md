@@ -27,7 +27,6 @@ Turborepo
 
 ESLint + Prettier
 統一コード規約。
-
 biome
 
 Auth.js
